@@ -1,6 +1,6 @@
-# Joint Venture Proposal between RackRental.net Operating Company LLC and Peter Dudin
+# Joint Venture Proposal between RackRental.net Operating Company LLC and ((Party2))
 
-- [Joint Venture Proposal between RackRental.net Operating Company LLC and Peter Dudin](#joint-venture-proposal-between-rackrentalnet-operating-company-llc-and-peter-dudin)
+- [Joint Venture Proposal between RackRental.net Operating Company LLC and Peter Dudin](#joint-venture-proposal-between-rackrentalnet-operating-company-llc-and-((Party2))
   - [Parties to the contract](#parties-to-the-contract)
   - [Broad Terms](#broad-terms)
     - [For RR](#for-rr)
