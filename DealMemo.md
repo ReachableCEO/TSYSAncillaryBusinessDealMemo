@@ -1,6 +1,6 @@
-# Joint Venture Proposal between RackRental.net Operating Company LLC and ((Party2))
+# Joint Venture Proposal between {{PARTY1}} and {{PARTY2}}
 
-- [Joint Venture Proposal between RackRental.net Operating Company LLC and Peter Dudin](#joint-venture-proposal-between-rackrentalnet-operating-company-llc-and-((Party2))
+- [Joint Venture Proposal between {{PARTY1}} and {{PARTY2}}](#joint-venture-proposal-between-party1-and-party2)
   - [Parties to the contract](#parties-to-the-contract)
   - [Broad Terms](#broad-terms)
     - [For RR](#for-rr)
@@ -10,25 +10,26 @@
     - [For ap4ap](#for-ap4ap)
   - [Timelines and length of deal](#timelines-and-length-of-deal)
   - [Party 1 responsibilities and context](#party-1-responsibilities-and-context)
-  - [Party 2 responsibilities and context](#party-2-responsibilities-and-context)
+  - [{{{PARTY2}} responsibilities and context](#party2-responsibilities-and-context)
   - [Scope of offer](#scope-of-offer)
+
 
 ## Parties to the contract
 
 Party 1:
-$PARTY1
+{{PARTY1}}
 
 
 
 Party 2:
-$PARTY2
+{{PARTY2}}
 
 ## Broad Terms
 
 For all businesses:
 
-- $PARTY1 retains all infrastructure control
-- $PARTY2 retains all financial control
+- {{PARTY1}} retains all infrastructure control
+- {{PARTY2}} retains all financial control
 
 ### For RR
 
@@ -42,26 +43,26 @@ For all businesses:
 
 ## Timelines and length of deal
 
-- $PARTY1 expects $PARTY2  to begin sales / marketing / development / fundraising etc efforts forthwith.
-- $PARTY1 expects party 2 to put in meaningful effort to generate revenue.
-- A 180 calendar day period is hereby alloted for development and delivery efforts by party 2 to occur from the date of execution of this contract. If at the end of 180 days any or all of the businesses aren’t delivered or well on the way to delivery, the deal is hereby terminated.
-- Party 2 is not required to provide any particular form / frequency of status updates during the period. Party 2 may elect to provide status updates as they see fit.
-- Party 1 will not provide any financial resources (beyond paying for domain registration and operating the current infrastructure). Any and all expenses will paid for by party 2 as they will be receiving majority revenue share. 
-- Once revenue starts flowing, it will be distributed as per this agreement. Not after a profit is turned. Party 1 brings substantial resources to the table (the lab, the building the lab is in etc) and is looking to generate revenue from the asset base via this joint venture.
+- {{PARTY1}} expects {{PARTY2}}  to begin sales / marketing / development / fundraising etc efforts forthwith.
+- {{PARTY1}} expects {{PARTY2}} to put in meaningful effort to generate revenue and profit.
+- A 180 calendar day period is hereby alloted for development and delivery efforts by {{PARTY2}} to occur from the date of execution of this contract. If at the end of 180 days any or all of the businesses aren’t delivered or well on the way to delivery, the deal is hereby terminated.
+- {{PARTY2}} is not required to provide any particular form / frequency of status updates during the period. {{PARTY2}} may elect to provide status updates as they see fit.
+- {{PARTY1}} will not provide any financial resources (beyond paying for domain registration and operating the current infrastructure). Any and all expenses will paid for by {{PARTY2}} as they will be receiving majority profit share. 
+- Once revenue starts flowing, it will be distributed as per this agreement. Not after a profit is turned. {{PARTY1}} brings substantial resources to the table (the lab, the building the lab is in etc) and is looking to generate revenue from the asset base via this joint venture.
 
 ## Party 1 responsibilities and context
 
 - Known Element Enterprises LLC (KNEL) (the TSYS group management company) (see <https://community.turnsys.com/t/tsys-group-taxonomy/64> for an overview of TSYS group) will provide core IT/business infrastructure on the same footing as it provides to other TSYS group businesses. Including marketing website,business intelligence, ERP, marketing, web analytics, backups , monitoring, mailing lists, accounting and other back office functions. This support does NOT include compute / storage / network for customer workloads or data, except for RackRental (at Richelle) and STL (and any franchisees of STL). Franchisees of RackRental and STL  must provide compute / storage / network / rentable assets  (which would be inherent in the fact that they have capacity in r assets to rent and would have built all that out), but must use the core KNEL IT/business systems as a control plane (for rentals). Also sol-calc compute /storage / network will be provided by KNEL.
 - RackRental.net Operating Company LLC will complete the development of RackRental middleware / backend (micro services). The code will remain proprietary to RackRental. It will be exposed as micro services.
-- RackRental.net Operating Company LLC will complete the development of signup, payment, provisioning micro services for RackRental and STL. The code will be developed as micro services and made available for use by the other businesses.
+- {{PARTY2}} and Known Element Enteprises LLC will jointly complete the development of signup, payment, provisioning micro services for {{ANCILLARY_BUSINESSES}}. The code will be developed as micro services and made available for use by the other businesses.
 
-## Party 2 responsibilities and context
+## {{{PARTY2}} responsibilities and context
 
 - you want to be a leader, be in the driver seat, put your brand/stamp on everything
 
 - you have a deep network of personnel/talent , a deep contact network etc
 
-- Party 1 has no real interest in these “ancillary businesses” but would like to retain a minority silent stake.
+- {{PARTY1}} has no real interest in these “ancillary businesses” but would like to retain a minority silent stake.
 
 ## Scope of offer
 
