@@ -9,21 +9,19 @@
     - [TeamRental](#teamrental)
     - [MerchantsOfHope](#merchantsofhope)
     - [AP4AP](#ap4ap)
-  - [Free Cash Flow Sharing Terms](#free-cash-flow-sharing-terms)
-    - [For RackRental](#for-rackrental)
-    - [For StartingLineProductions](#for-startinglineproductions)
-  - [Profit Sharing Terms](#profit-sharing-terms)
-    - [For ThePeerNet](#for-thepeernet)
-    - [For AP4AP](#for-ap4ap)
-    - [For YourDreamNameHere](#for-yourdreamnamehere)
-    - [For TeamRental](#for-teamrental)
+  - [Financial Terms](#financial-terms)
+    - [Free Cash Flow sharing: RackRental](#free-cash-flow-sharing-rackrental)
+    - [Free Cash Flow sharing: StartingLineProductions](#free-cash-flow-sharing-startinglineproductions)
+    - [Free Cash Flow sharing: ThePeerNet](#free-cash-flow-sharing-thepeernet)
+    - [Profit Sharing: AP4AP](#profit-sharing-ap4ap)
+    - [Profit Sharing: YourDreamNameHere](#profit-sharing-yourdreamnamehere)
+    - [Profit Sharing: TeamRental](#profit-sharing-teamrental)
     - [For MerchantsOfHope](#for-merchantsofhope)
     - [For sol-calc](#for-sol-calc)
   - [Scope of offer](#scope-of-offer)
   - [Timelines and length of deal](#timelines-and-length-of-deal)
   - [{{PARTY1}} responsibilities and context](#party1-responsibilities-and-context)
   - [{{PARTY2}} responsibilities and context](#party2-responsibilities-and-context)
-
 
 # Joint Venture Proposal between {{PARTY1}} and {{PARTY2}}
 
@@ -112,72 +110,67 @@ For the businesses defined above:
 
 This provides mutually assured destruction in the event of an attempted breach of contract by either party.
 
-(the below terms will be detailed in a private repository while negotiating with the joint venture partner)
+## Financial Terms
 
-## Free Cash Flow Sharing Terms
+### Free Cash Flow sharing: RackRental
 
-### For RackRental
+| Contract Party | Distribution Percentage |
+| -------------- | ----------------------- |
+| {{PARTY1}}     | 90%                     |
+| {{PARTY2}}     | 10%                     |
+
+### Free Cash Flow sharing: StartingLineProductions
+
+| Contract Party | Distribution Percentage |
+| -------------- | ----------------------- |
+| {{PARTY1}}     |  40%                    |
+| {{PARTY2}}     |  60%                    |
+
+### Free Cash Flow sharing: ThePeerNet
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
 | {{PARTY1}}     |                         |
 | {{PARTY2}}     |                         |
 
-### For StartingLineProductions
+### Profit Sharing: AP4AP
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| {{PARTY1}}     |                         |
+| {{PARTY1}}     | 10%                     |
 | {{PARTY2}}     |                         |
 
-## Profit Sharing Terms
-
-### For ThePeerNet
+### Profit Sharing: YourDreamNameHere
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| {{PARTY1}}     |                         |
-| {{PARTY2}}     |                         |
+| {{PARTY1}}     |  25%                    |
+| {{PARTY2}}     |  75%                    |
 
-### For AP4AP
-
-| Contract Party | Distribution Percentage |
-| -------------- | ----------------------- |
-| {{PARTY1}}     |                         |
-| {{PARTY2}}     |                         |
-
-### For YourDreamNameHere
+### Profit Sharing: TeamRental
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| {{PARTY1}}     |                         |
-| {{PARTY2}}     |                         |
-
-### For TeamRental
-
-| Contract Party | Distribution Percentage |
-| -------------- | ----------------------- |
-| {{PARTY1}}     |                         |
-| {{PARTY2}}     |                         |
+| {{PARTY1}}     |  20%                    |
+| {{PARTY2}}     |  80%                    |
 
 ### For MerchantsOfHope
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| {{PARTY1}}     |                         |
-| {{PARTY2}}     |                         |
+| {{PARTY1}}     |  10%                    |
+| {{PARTY2}}     |  90%                    |
 
 ### For sol-calc
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| {{PARTY1}}     |                         |
-| {{PARTY2}}     |                         |
+| {{PARTY1}}     |  50%                    |
+| {{PARTY2}}     |  50%                    |
 
 ## Scope of offer
 
 Here are the  businesses in scope for this offer and some context on each:
-
 
 - MerchantsOfHope.org (idea is to have a freelance platform that isn’t horrible like upwork etc has become) (would cross/up sell TeamRental/YDN). Nothing more than a domain. Completely open field.
 
@@ -185,10 +178,7 @@ Here are the  businesses in scope for this offer and some context on each:
 
 - RackRental.net (network test lab rental ). Alpha launching July. Hardware build out done (including power and apron). Early software dev underway, doing heavy dev on RR in June, will be main focus (after finalizing the KNEL micro services ).
 
-
 - {{PARTY2}} will have total control over TeamRental/YourDreamNameHere/MerchantsOfHope. They can be closed/opensource, whatever you want.
-
-
 
 - For sol-calc, the core micro service is GPLv3. You would have complete control over the branding / pricing etc of the SAAS front end (which is how most people would use it. So few would self host and they wouldn’t have paid anyway). This allows for the community to provide feedback on the algorithm. Could someone take it and launch a competing service ? Sure. Will they? Doubtful. Branding is a thing.
 
@@ -215,7 +205,6 @@ Here are the  businesses in scope for this offer and some context on each:
 - you have a deep network of personnel/talent , a deep contact network etc
 
 - {{PARTY1}} has no real interest in these “ancillary businesses” but would like to retain a minority silent stake.
-
 
 - The only thing I ask, is that TSYS Group/Redwood Group and the Non Profits get use of the stack forever at 0 charge (we would pay any actual costs like domain registration of course). (I have an on-premise computer room that will handle all of the heavy compute/storage for all of those companies, so we wouldn’t eat into your margins).
 
