@@ -1,3 +1,22 @@
+- [Joint Venture Proposal between Acme Co and Joint Venture Co](#joint-venture-proposal-between-acme-co-and-joint-venture-co)
+  - [Parties to the contract](#parties-to-the-contract)
+  - [Businesses in scope of this contract](#businesses-in-scope-of-this-contract)
+  - [Free Cash Flow Sharing Terms](#free-cash-flow-sharing-terms)
+    - [For RackRental](#for-rackrental)
+    - [For StartingLineProductions](#for-startinglineproductions)
+  - [Profit Sharing Terms](#profit-sharing-terms)
+    - [For ThePeerNet](#for-thepeernet)
+    - [For ap4ap.org](#for-ap4aporg)
+    - [For YourDreamNameHere](#for-yourdreamnamehere)
+    - [For TeamRental](#for-teamrental)
+    - [For MerchantsOfHope](#for-merchantsofhope)
+    - [For sol-calc](#for-sol-calc)
+  - [Scope of offer](#scope-of-offer)
+  - [Timelines and length of deal](#timelines-and-length-of-deal)
+  - [Party 1 responsibilities and context](#party-1-responsibilities-and-context)
+  - [Joint Venture Co responsibilities and context](#joint-venture-co-responsibilities-and-context)
+
+
 # Joint Venture Proposal between Acme Co and Joint Venture Co
 
 ## Parties to the contract
@@ -10,33 +29,128 @@ Joint Venture Co
 
 ## Businesses in scope of this contract
 
+- ThePeerNet
+- ap4ap
+- Rackrental
+- Starting Line Productions
+- YourDreamNameHere
+- TeamRental
+- MerchantsOfHope
+- sol-calc
 
 
-## Broad Terms
+For the businesses defined above:
 
-For all :
+- Acme Co retains all infrastructure control (DNS/hosting etc)
+- Joint Venture Co retains all financial control (bank accounts/third party payment processors)
 
-- Acme Co retains all infrastructure control
-- Joint Venture Co retains all financial control
+This provides mutually assured destruction in the event of an attempted breach of contract by either party.
 
-### For RR
+(the below terms will be detailed in a private repository while negotiating with the joint venture partner)
 
-### For STL
+## Free Cash Flow Sharing Terms
 
-### For YDN
+### For RackRental
 
-###
+| Contract Party | Distribution Percentage |
+| -------------- | ----------------------- |
+| Acme Co     |                         |
+| Joint Venture Co     |                         |
 
-### For ap4ap
+### For StartingLineProductions
+
+| Contract Party | Distribution Percentage |
+| -------------- | ----------------------- |
+| Acme Co     |                         |
+| Joint Venture Co     |                         |
+
+## Profit Sharing Terms
+
+### For ThePeerNet
+
+| Contract Party | Distribution Percentage |
+| -------------- | ----------------------- |
+| Acme Co     |                         |
+| Joint Venture Co     |                         |
+
+### For ap4ap.org
+
+| Contract Party | Distribution Percentage |
+| -------------- | ----------------------- |
+| Acme Co     |                         |
+| Joint Venture Co     |                         |
+
+### For YourDreamNameHere
+
+| Contract Party | Distribution Percentage |
+| -------------- | ----------------------- |
+| Acme Co     |                         |
+| Joint Venture Co     |                         |
+
+### For TeamRental
+
+| Contract Party | Distribution Percentage |
+| -------------- | ----------------------- |
+| Acme Co     |                         |
+| Joint Venture Co     |                         |
+
+### For MerchantsOfHope
+
+| Contract Party | Distribution Percentage |
+| -------------- | ----------------------- |
+| Acme Co     |                         |
+| Joint Venture Co     |                         |
+
+### For sol-calc
+
+| Contract Party | Distribution Percentage |
+| -------------- | ----------------------- |
+| Acme Co     |                         |
+| Joint Venture Co     |                         |
+
+## Scope of offer
+
+Here are the  businesses in scope for this offer and some context on each:
+
+- TeamRental
+
+- Business description: A SAAS play. An implementation of the overall TSYS backend stack as turn key server / software stack:
+  - VPS (netcup)
+  - cloudron,coolify (pre configured to connect to cloudron), cosmos
+  - Backblaze backups.
+
+- Costs:
+  - MSRP of 120.00 per month.
+  - Cost would be 66.00 (presuming 1tb of backup).
+
+ The stack is pretty well developed/deployed/tested. Product/market fit has been found. 
+ 
+ Should be very straightforward to build out using the KNEL micro services.
+
+- YourDreamNameHere (a business in a box to automate domain/social and back office provisioning) (would cross / up sell TeamRental.net as one of the vendor choices). Otherwise monthly affiliate revenue from SAAS vendors (quickbooks, office or gmail, etc) and a setup fee (I recommend two months of SAAS affiliate revenue as the setup fee). It’s nothing more than a domain and an idea. Should be very straightforward to build out using the KNEL micro services and a low code / no code platform (we have a few available and can spin them up if desired),
+
+- MerchantsOfHope.org (idea is to have a freelance platform that isn’t horrible like upwork etc has become) (would cross/up sell TeamRental/YDN). Nothing more than a domain. Completely open field.
+
+- StartingLineProductions.com (electronics lab / dirty and clean fabrication / kitchen / meeting room rental). 99% built out. Already did alpha and beta testing with live customers and had first paying customer. Product market fit found.
+
+- RackRental.net (network test lab rental ). Alpha launching July. Hardware build out done (including power and apron). Early software dev underway, doing heavy dev on RR in June, will be main focus (after finalizing the KNEL micro services ).
+
+
+- Joint Venture Co will have total control over TeamRental/YourDreamNameHere/MerchantsOfHope. They can be closed/opensource, whatever you want.
+
+
+
+- For sol-calc, the core micro service is GPLv3. You would have complete control over the branding / pricing etc of the SAAS front end (which is how most people would use it. So few would self host and they wouldn’t have paid anyway). This allows for the community to provide feedback on the algorithm. Could someone take it and launch a competing service ? Sure. Will they? Doubtful. Branding is a thing.
+
+- sol-calc.com (solar calculator I’ve been building as I am doing a custom design / ground mount of 5kw of panels. Very early microservice development underway.
 
 ## Timelines and length of deal
 
 - Acme Co expects Joint Venture Co  to begin sales / marketing / development / fundraising etc efforts forthwith.
 - Acme Co expects Joint Venture Co to put in meaningful effort to generate revenue and profit.
 - A 180 calendar day period is hereby alloted for development and delivery efforts by Joint Venture Co to occur from the date of execution of this contract. If at the end of 180 days any or all of the businesses aren’t delivered or well on the way to delivery, the deal is hereby terminated.
-- Joint Venture Co is not required to provide any particular form / frequency of status updates during the period. Joint Venture Co may elect to provide status updates as they see fit.
-- Acme Co will not provide any financial resources (beyond paying for domain registration and operating the current infrastructure). Any and all expenses will paid for by Joint Venture Co as they will be receiving majority profit share. 
-- Once revenue starts flowing, it will be distributed as per this agreement. Not after a profit is turned. Acme Co brings substantial resources to the table (the lab, the building the lab is in etc) and is looking to generate revenue from the asset base via this joint venture.
+- Joint Venture Co is not required to provide any particular form / frequency of status updates during the period. Joint Venture Co may elect to provide status updates as they see fit. Joint Venture Co is welcome to utilize Known Element Enterprises Redmine instance if they wish todo so. Any other project/tasks/issue management system is acceptable as well. Also none at all may be used. It's entirely up to Joint Venture Co management discretion.
+- Acme Co will not provide any financial resources (beyond paying for domain registration and operating the current infrastructure). Any and all expenses will paid for by Joint Venture Co as they will be receiving majority revenue or profit share.
 
 ## Party 1 responsibilities and context
 
@@ -52,25 +166,6 @@ For all :
 
 - Acme Co has no real interest in these “ancillary businesses” but would like to retain a minority silent stake.
 
-## Scope of offer
-
-Here are the  businesses in scope for this offer and some context on each:
-
-- TeamRental.net (rental of the overall TSYS backend stack) as turn key server / software stack as a tenant. VPS/cloudron/Backblaze backups. MSRP of 120.00 per month. Cost would be 66.00 (presuming 1tb of backup). The stack is pretty well developed/deployed/tested, the website / business itself is nothing more than a domain and an idea. Should be very straightforward to build out using the KNEL micro services.
-
-- YourDreamNameHere.com (a business in a box to automate domain/social and back office provisioning) (would cross / up sell TeamRental.net as one of the vendor choices). Otherwise monthly affiliate revenue from SAAS vendors (quickbooks, office or gmail, etc) and a setup fee (I recommend two months of SAAS affiliate revenue as the setup fee). It’s nothing more than a domain and an idea. Should be very straightforward to build out using the KNEL micro services and a low code / no code platform (we have a few available and can spin them up if desired),
-
-- StartingLineProductions.com (electronics lab / dirty and clean fabrication / kitchen / meeting room rental). Production Launching June 1st and very much built out. Already did alpha and beta testing with live customers.
-
-- RackRental.net (network test lab rental ). Alpha launching July. Hardware build out done (including power and apron). Early software dev underway, doing heavy dev on RR in June, will be main focus (after finalizing the KNEL micro services ).
-
-- MerchantsOfHope.org (idea was a freelance site that isn’t horrible like upwork etc has become) (would cross/up sell TeamRental.net). Nothing more than a domain. Completely open field.
-
-- sol-calc.com (solar calculator I’ve been building as I am doing a custom design / ground mount of 5kw of panels. Very early microservice development underway.
-
-- You would have total control over TeamRental/YourDreamNameHere/MerchantsOfHope. They can be closed/opensource, whatever you want.
-
-- For sol-calc, the core micro service is GPLv3. You would have complete control over the branding / pricing etc of the SAAS front end (which is how most people would use it. So few would self host and they wouldn’t have paid anyway). This allows for the community to provide feedback on the algorithm. Could someone take it and launch a competing service ? Sure. Will they? Doubtful. Branding is a thing.
 
 - The only thing I ask, is that TSYS Group/Redwood Group and the Non Profits get use of the stack forever at 0 charge (we would pay any actual costs like domain registration of course). (I have an on-premise computer room that will handle all of the heavy compute/storage for all of those companies, so we wouldn’t eat into your margins).
 
