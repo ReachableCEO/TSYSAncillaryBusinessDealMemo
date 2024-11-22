@@ -10,33 +10,52 @@ Party 2:
 
 ## Businesses in scope of this contract
 
-{{ANCILLARY_BUSINESSES}}
+- ThePeerNet
+- ap4ap.org
+- Rackrental
+- Starting Line Productions
+- YourDreamNameHere
+- TeamRental
+- MerchantsOfHope
+- sol-calc
 
-## Broad Terms
 
-For all {{ANCILLARY_BUSINESSES}}:
+For the businesses defined above:
 
-- {{PARTY1}} retains all infrastructure control
-- {{PARTY2}} retains all financial control
+- {{PARTY1}} retains all infrastructure control (DNS/hosting etc)
+- {{PARTY2}} retains all financial control (bank accounts/third party payment processors)
 
-### For RR
+This provides mutually assured destruction in the event of an attempted breach of contract by either party.
 
-### For STL
+(the below terms will be defined in a private repository while negotiating with the joint venture partner)
 
-### For YDN
+## Free Cash Flow Terms
 
-###
+### For RackRental
 
-### For ap4ap
+### For StartingLineProductions
+
+## Profit Terms
+
+### For ThePeerNet
+
+### For ap4ap.org
+
+### For YourDreamNameHere
+
+### For TeamRental
+
+### For MerchantsOfHope
+
+### For sol-calc
 
 ## Timelines and length of deal
 
 - {{PARTY1}} expects {{PARTY2}}  to begin sales / marketing / development / fundraising etc efforts forthwith.
 - {{PARTY1}} expects {{PARTY2}} to put in meaningful effort to generate revenue and profit.
 - A 180 calendar day period is hereby alloted for development and delivery efforts by {{PARTY2}} to occur from the date of execution of this contract. If at the end of 180 days any or all of the businesses aren’t delivered or well on the way to delivery, the deal is hereby terminated.
-- {{PARTY2}} is not required to provide any particular form / frequency of status updates during the period. {{PARTY2}} may elect to provide status updates as they see fit.
-- {{PARTY1}} will not provide any financial resources (beyond paying for domain registration and operating the current infrastructure). Any and all expenses will paid for by {{PARTY2}} as they will be receiving majority profit share. 
-- Once revenue starts flowing, it will be distributed as per this agreement. Not after a profit is turned. {{PARTY1}} brings substantial resources to the table (the lab, the building the lab is in etc) and is looking to generate revenue from the asset base via this joint venture.
+- {{PARTY2}} is not required to provide any particular form / frequency of status updates during the period. {{PARTY2}} may elect to provide status updates as they see fit. {{PARTY2}} is welcome to utilize Known Element Enterprises Redmine instance if they wish todo so. Any other project/tasks/issue management system is acceptable as well. Also none at all may be used. It's entirely up to {{PARTY2}} management discretion.
+- {{PARTY1}} will not provide any financial resources (beyond paying for domain registration and operating the current infrastructure). Any and all expenses will paid for by {{PARTY2}} as they will be receiving majority revenue or profit share.
 
 ## Party 1 responsibilities and context
 

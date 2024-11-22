@@ -10,11 +10,11 @@ Joint Venture Co
 
 ## Businesses in scope of this contract
 
-TSYS Ancillary Businesses
+
 
 ## Broad Terms
 
-For all TSYS Ancillary Businesses:
+For all :
 
 - Acme Co retains all infrastructure control
 - Joint Venture Co retains all financial control
@@ -42,7 +42,7 @@ For all TSYS Ancillary Businesses:
 
 - Known Element Enterprises LLC (KNEL) (the TSYS group management company) (see <https://community.turnsys.com/t/tsys-group-taxonomy/64> for an overview of TSYS group) will provide core IT/business infrastructure on the same footing as it provides to other TSYS group businesses. Including marketing website,business intelligence, ERP, marketing, web analytics, backups , monitoring, mailing lists, accounting and other back office functions. This support does NOT include compute / storage / network for customer workloads or data, except for RackRental (at Richelle) and STL (and any franchisees of STL). Franchisees of RackRental and STL  must provide compute / storage / network / rentable assets  (which would be inherent in the fact that they have capacity in r assets to rent and would have built all that out), but must use the core KNEL IT/business systems as a control plane (for rentals). Also sol-calc compute /storage / network will be provided by KNEL.
 - RackRental.net Operating Company LLC will complete the development of RackRental middleware / backend (micro services). The code will remain proprietary to RackRental. It will be exposed as micro services.
-- Joint Venture Co and Known Element Enteprises LLC will jointly complete the development of signup, payment, provisioning micro services for TSYS Ancillary Businesses. The code will be developed as micro services and made available for use by the other businesses.
+- Joint Venture Co and Known Element Enteprises LLC will jointly complete the development of signup, payment, provisioning micro services for . The code will be developed as micro services and made available for use by the other businesses.
 
 ## Joint Venture Co responsibilities and context
 
