@@ -8,7 +8,11 @@ export PARTY2="Joint Venture Co"
 
 ./mo DealMemoInput.md > DealMemoRendered.md
 
-
 # Generate the PDF
 
-pandoc --from=markdown --to=pdf DealMemoRendered.md -o ReadyForExecution.pdf
+pandoc \
+DealMemoRendered.md \
+--template eisvogel \
+--metadata-file=DealMemo.yml \
+--from markdown \
+--output DealMemo.pdf \
