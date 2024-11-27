@@ -38,23 +38,52 @@ Party 2:
 ### ThePeerNet
 
 - Business Description/idea/model:
-- Current status of the business
-- Costs/sale price/margins etc:
-- Level of development effort
 
-### RackRental
+A podcast network as a service. Also the media/broadcast division of TSYS Group. 
+
+ 
+- Current status of the business:  
+
+- Multiple podcast episodes created for the initial show of the podcast network.
+- ReachableCEO is streaming and creating lots of content for turning into free / paid tiers for The ReachableCEO show. 
+
+ 
+- Costs/sale price/margins etc:
+- Operating costs are quite low.  
+- Content production / acquisition / development costs can be high. 
+
+ 
+- Level of (custom) development effort:
+
+Very low. 
+
+- Umbrel handles value 4 value.  
+- Castopod handles the podcast creation. 
+- KNEL hosts the downloads and ancillary services (open streaming platform, craig , ad server etc). 
+
+
+
+### Starting Line Productions / RackRental 
 
 - Business Description/idea/model:
-- Current status of the business
-- Costs/sale price/margins etc:
-- Level of development effort
 
-### Starting Line Productions
+A private, invite only maker space and (open to all non sanctioned / embargoed persons) network testing lab. Very well equipped. Soup to nuts small (consumer)(electronics) product prototyping/fabrication and network certification study lab. 
+ 
+- Current status of the business: 
 
-- Business Description/idea/model:
-- Current status of the business
+Physical build out is almost complete. We’ve had alpha / beta customers and paying customers. 
+
 - Costs/sale price/margins etc:
-- Level of development effort
+
+Substantial capital costs have been incurred for the build out by Wyble Family Office LLC and would need to be recouped before a profit can be turned. 
+ 
+- Level of development effort: 
+
+Low to Moderate. 
+
+Can utilize the bookme plugin and some web hooks to KNEL services for provisioning access etc. 
+
+ 
 
 ### sol-calc
 
