@@ -37,23 +37,24 @@ Party 2:
 
 ### ThePeerNet
 
-- Business Description/idea/model:
+#### Business Description/idea/model:
 
 A podcast network as a service. Also the media/broadcast division of TSYS Group. 
 
  
-- Current status of the business:  
+#### Current status of the business:  
 
 - Multiple podcast episodes created for the initial show of the podcast network.
 - ReachableCEO is streaming and creating lots of content for turning into free / paid tiers for The ReachableCEO show. 
 
  
-- Costs/sale price/margins etc:
+#### Costs/sale price/margins etc:
+ 
 - Operating costs are quite low.  
 - Content production / acquisition / development costs can be high. 
 
  
-- Level of (custom) development effort:
+#### Level of (custom) development effort:
 
 Very low. 
 
@@ -65,19 +66,19 @@ Very low.
 
 ### Starting Line Productions / RackRental 
 
-- Business Description/idea/model:
+#### Business Description/idea/model:
 
 A private, invite only maker space and (open to all non sanctioned / embargoed persons) network testing lab. Very well equipped. Soup to nuts small (consumer)(electronics) product prototyping/fabrication and network certification study lab. 
  
-- Current status of the business: 
+#### Current status of the business: 
 
 Physical build out is almost complete. We’ve had alpha / beta customers and paying customers. 
 
-- Costs/sale price/margins etc:
+#### Costs/sale price/margins etc:
 
 Substantial capital costs have been incurred for the build out by Wyble Family Office LLC and would need to be recouped before a profit can be turned. 
  
-- Level of development effort: 
+#### Level of development effort: 
 
 Low to Moderate. 
 
@@ -87,17 +88,17 @@ Can utilize the bookme plugin and some web hooks to KNEL services for provisioni
 
 ### sol-calc
 
-- Business Description/idea/model:
-- Current status of the business
-- Costs/sale price/margins etc:
-- Level of development effort
+#### Business Description/idea/model
+#### Current status of the business
+#### Costs/sale price/margins etc
+#### Level of development effort
 
 ### YourDreamNameHere
 
-- Business Description/idea/model:
-- Current status of the business
-- Costs/sale price/margins etc:
-- Level of development effort
+#### Business Description/idea/model
+#### Current status of the business
+#### Costs/sale price/margins etc
+#### Level of development effort
 
 - YourDreamNameHere (a business in a box to automate domain/social and back office provisioning) (would cross / up sell TeamRental.net as one of the vendor choices). Otherwise monthly affiliate revenue from SAAS vendors (quickbooks, office or gmail, etc) and a setup fee (I recommend two months of SAAS affiliate revenue as the setup fee). It’s nothing more than a domain and an idea. Should be very straightforward to build out using the KNEL micro services and a low code / no code platform (we have a few available and can spin them up if desired),
 
