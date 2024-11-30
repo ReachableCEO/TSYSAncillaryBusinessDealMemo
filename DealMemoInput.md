@@ -2,10 +2,25 @@
   - [Parties to the contract](#parties-to-the-contract)
   - [Businesses in scope of this contract and some context on each](#businesses-in-scope-of-this-contract-and-some-context-on-each)
     - [ThePeerNet](#thepeernet)
-    - [RackRental](#rackrental)
-    - [Starting Line Productions](#starting-line-productions)
+      - [Business Description/idea/model](#business-descriptionideamodel)
+      - [Current status of the business](#current-status-of-the-business)
+      - [Costs/sale price/margins etc](#costssale-pricemargins-etc)
+      - [Level of (custom) development effort](#level-of-custom-development-effort)
+    - [Starting Line Productions / RackRental](#starting-line-productions--rackrental)
+      - [Business Description/idea/model](#business-descriptionideamodel-1)
+      - [Current status of the business](#current-status-of-the-business-1)
+      - [Costs/sale price/margins etc](#costssale-pricemargins-etc-1)
+      - [Level of development effort](#level-of-development-effort)
     - [sol-calc](#sol-calc)
+      - [Business Description/idea/model](#business-descriptionideamodel-2)
+      - [Current status of the business](#current-status-of-the-business-2)
+      - [Costs/sale price/margins etc](#costssale-pricemargins-etc-2)
+      - [Level of development effort](#level-of-development-effort-1)
     - [YourDreamNameHere](#yourdreamnamehere)
+      - [Business Description/idea/model](#business-descriptionideamodel-3)
+      - [Current status of the business](#current-status-of-the-business-3)
+      - [Costs/sale price/margins etc](#costssale-pricemargins-etc-3)
+      - [Level of development effort](#level-of-development-effort-2)
     - [TeamRental](#teamrental)
     - [MerchantsOfHope](#merchantsofhope)
     - [AP4AP](#ap4ap)
@@ -37,67 +52,66 @@ Party 2:
 
 ### ThePeerNet
 
-#### Business Description/idea/model:
+#### Business Description/idea/model
 
-A podcast network as a service. Also the media/broadcast division of TSYS Group. 
+A podcast network as a service. Also the media/broadcast division of TSYS Group.
 
- 
-#### Current status of the business:  
+#### Current status of the business  
 
-- Multiple podcast episodes created for the initial show of the podcast network.
-- ReachableCEO is streaming and creating lots of content for turning into free / paid tiers for The ReachableCEO show. 
+- Five podcast episodes created for the initial show of the podcast network.
+- ReachableCEO is streaming and creating lots of content for turning into free / paid tiers for The ReachableCEO show.
 
- 
-#### Costs/sale price/margins etc:
- 
-- Operating costs are quite low.  
-- Content production / acquisition / development costs can be high. 
+#### Costs/sale price/margins etc
 
- 
-#### Level of (custom) development effort:
+- Core operating costs are low (just the domain name). KNEL absorbs the hosting costs as part of it's overall service delivery budget.
+- Content production / acquisition / development costs can be high.
 
-Very low. 
+#### Level of (custom) development effort
+
+Very low.
 
 - Umbrel handles value 4 value.  
-- Castopod handles the podcast creation. 
-- KNEL hosts the downloads and ancillary services (open streaming platform, craig , ad server etc). 
+- Castopod handles the podcast creation.
+- KNEL hosts the downloads and ancillary services (open streaming platform, craig , ad server etc).
 
+### Starting Line Productions / RackRental
 
+#### Business Description/idea/model
 
-### Starting Line Productions / RackRental 
+A private, invite only maker space and (open to all non sanctioned / embargoed persons) network testing lab. Very well equipped. Soup to nuts small (consumer)(electronics) product prototyping/fabrication and network certification study lab.
 
-#### Business Description/idea/model:
+#### Current status of the business
 
-A private, invite only maker space and (open to all non sanctioned / embargoed persons) network testing lab. Very well equipped. Soup to nuts small (consumer)(electronics) product prototyping/fabrication and network certification study lab. 
- 
-#### Current status of the business: 
+Physical build out is almost complete. We’ve had alpha / beta customers and paying customers.
 
-Physical build out is almost complete. We’ve had alpha / beta customers and paying customers. 
+#### Costs/sale price/margins etc
 
-#### Costs/sale price/margins etc:
+Substantial capital costs have been incurred for the build out by Wyble Family Office LLC and would need to be recouped before a profit can be turned.
 
-Substantial capital costs have been incurred for the build out by Wyble Family Office LLC and would need to be recouped before a profit can be turned. 
- 
-#### Level of development effort: 
+#### Level of development effort
 
-Low to Moderate. 
+Low to Moderate.
 
-Can utilize the bookme plugin and some web hooks to KNEL services for provisioning access etc. 
-
- 
+Can utilize the bookme plugin and some web hooks to KNEL services for provisioning access etc.
 
 ### sol-calc
 
 #### Business Description/idea/model
+
 #### Current status of the business
+
 #### Costs/sale price/margins etc
+
 #### Level of development effort
 
 ### YourDreamNameHere
 
 #### Business Description/idea/model
+
 #### Current status of the business
+
 #### Costs/sale price/margins etc
+
 #### Level of development effort
 
 - YourDreamNameHere (a business in a box to automate domain/social and back office provisioning) (would cross / up sell TeamRental.net as one of the vendor choices). Otherwise monthly affiliate revenue from SAAS vendors (quickbooks, office or gmail, etc) and a setup fee (I recommend two months of SAAS affiliate revenue as the setup fee). It’s nothing more than a domain and an idea. Should be very straightforward to build out using the KNEL micro services and a low code / no code platform (we have a few available and can spin them up if desired),
