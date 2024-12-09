@@ -26,7 +26,7 @@ ProForma Party 2
 
 - AP4AP.org Details
 
-- [WIP Biz/Ops/Product plan](https://git.knownelement.com/Ap4Ap.org/Ap4Ap.org-bizopprodplan)
+  - Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/Ap4Ap.org/Ap4Ap.org-bizopprodplan)
 
 #### AP4AP.org Current status of the business
 
@@ -50,7 +50,7 @@ ProForma Party 2
 
 - MerchantsOfHope.org Details
 
-- [WIP Biz/Ops/Product plan](https://git.knownelement.com/MerchantsOfHope.org/MerchantsOfHope.org-bizopprodplan)
+  - Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/MerchantsOfHope.org/MerchantsOfHope.org-bizopprodplan)
 
 #### MerchantsOfHope.org Current status of the business
 
@@ -79,7 +79,7 @@ ProForma Party 2
 
 - Sol-Calc.com Details
 
-- [WIP Biz/Ops/Product plan](https://git.knownelement.com/sol-calc.com/sol-calc.com-bizopprodplan)
+  - Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/sol-calc.com/sol-calc.com-bizopprodplan)
 
 #### Sol-Calc.com Current status of the business
 
@@ -103,7 +103,7 @@ A private, invite only maker space / RF / PCB fabrication workshop. Very well eq
 
 - StartingLineProductions.com Details
 
-- [WIP Biz/Ops/Product plan](https://git.knownelement.com/StartingLineProductions.com/startinglineproductions.com-bizopprodplan)
+  - Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/StartingLineProductions.com/startinglineproductions.com-bizopprodplan)
 
 #### StartingLineProductions.com Current status of the business
 
@@ -130,7 +130,7 @@ Can utilize the bookme plugin and some web hooks to KNEL services for provisioni
 
 - TeamRental.net Details
 
-- [WIP Biz/Ops/Product plan](https://git.knownelement.com/TeamRental.net/teamrental.net-bizopprodplan)
+  - Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/TeamRental.net/teamrental.net-bizopprodplan)
 
 #### TeamRental.net Current status of the business
 
@@ -166,9 +166,9 @@ Should be very straightforward to build out using the KNEL micro services.
 
 = ThePeerNet.com Details
 
-- [WIP Biz/Ops/Product plan](https://git.knownelement.com/ThePeerNet.com/ThePeerNet.com-bizopprodplan)
-- Core operating costs are low (the domain name). KNEL absorbs the hosting costs as part of it's service delivery budget.
-- Content production / acquisition / development costs can be high.
+  - Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/ThePeerNet.com/ThePeerNet.com-bizopprodplan)
+  - Core operating costs are low (the domain name). KNEL absorbs the hosting costs as part of it's service delivery budget.
+  - Content production / acquisition / development costs can be high.
 
 A podcast network as a service. Also the media/broadcast division of TSYS Group.
 
@@ -202,7 +202,7 @@ YourDreamNameHere (a business in a box to automate domain/social and back office
 
 - YourDreamNameHere.com Details
 
-  - [WIP Biz/Ops/Product plan](https://git.knownelement.com/YourDreamNameHere.com/YourDreamNameHere.com-bizopprodplan)
+    - Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/YourDreamNameHere.com/YourDreamNameHere.com-bizopprodplan)
 
 #### YourDreamNameHere.com Current status of the business
 

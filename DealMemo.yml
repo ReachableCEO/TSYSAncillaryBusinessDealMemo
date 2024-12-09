@@ -11,3 +11,4 @@ footer-left: "DRAFT Document"
 footer-center: "Copyright Wyble Family Office LLC"
 footer-right: "Not legally binding"
 page-background: "D:/tsys/@ReachableCEO/ExternalVendorCode/pandoc-latex-template/examples/page-background/backgrounds/background5.pdf"
+urlcolor: blue
