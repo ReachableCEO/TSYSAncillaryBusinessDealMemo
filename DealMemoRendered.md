@@ -1,11 +1,26 @@
-- [Joint Venture Proposal between Acme Co and Joint Venture Co](#joint-venture-proposal-between-party1-and-party2)
+- [Joint Venture Proposal between ProForma Party 1 and ProForma Party 2](#joint-venture-proposal-between-party1-and-party2)
   - [Parties to the contract](#parties-to-the-contract)
   - [Businesses in scope of this contract and some context on each](#businesses-in-scope-of-this-contract-and-some-context-on-each)
     - [ThePeerNet](#thepeernet)
-    - [RackRental](#rackrental)
-    - [Starting Line Productions](#starting-line-productions)
+      - [Business Description/idea/model](#business-descriptionideamodel)
+      - [Current status of the business](#current-status-of-the-business)
+      - [Costs/sale price/margins etc](#costssale-pricemargins-etc)
+      - [Level of (custom) development effort](#level-of-custom-development-effort)
+    - [Starting Line Productions and RackRental](#starting-line-productions-and-rackrental)
+      - [Business Description/idea/model](#business-descriptionideamodel-1)
+      - [Current status of the business](#current-status-of-the-business-1)
+      - [Costs/sale price/margins etc](#costssale-pricemargins-etc-1)
+      - [Level of development effort](#level-of-development-effort)
     - [sol-calc](#sol-calc)
+      - [Business Description/idea/model](#business-descriptionideamodel-2)
+      - [Current status of the business](#current-status-of-the-business-2)
+      - [Costs/sale price/margins etc](#costssale-pricemargins-etc-2)
+      - [Level of development effort](#level-of-development-effort-1)
     - [YourDreamNameHere](#yourdreamnamehere)
+      - [Business Description/idea/model](#business-descriptionideamodel-3)
+      - [Current status of the business](#current-status-of-the-business-3)
+      - [Costs/sale price/margins etc](#costssale-pricemargins-etc-3)
+      - [Level of development effort](#level-of-development-effort-2)
     - [TeamRental](#teamrental)
     - [MerchantsOfHope](#merchantsofhope)
     - [AP4AP](#ap4ap)
@@ -20,55 +35,90 @@
     - [For sol-calc](#for-sol-calc)
   - [Scope of offer](#scope-of-offer)
   - [Timelines and length of deal](#timelines-and-length-of-deal)
-  - [Acme Co responsibilities and context](#party1-responsibilities-and-context)
-  - [Joint Venture Co responsibilities and context](#party2-responsibilities-and-context)
+  - [Responsibilities and context for ProForma Party 1](#responsibilities-and-context-for-party1)
+  - [Rresponsibilities and context for ProForma Party 2](#rresponsibilities-and-context-for-party2)
 
-# Joint Venture Proposal between Acme Co and Joint Venture Co
+# Joint Venture Proposal between ProForma Party 1 and ProForma Party 2
 
 ## Parties to the contract
 
 Party 1:
-Acme Co
+ProForma Party 1
+
+Legal Name of ProForma Party 1:
+Mailing/physical address of ProForma Party 1:
 
 Party 2:
-Joint Venture Co
+ProForma Party 2
+
+Legal Name of ProForma Party 2:
+Mailing/physical address of ProForma Party 2:
 
 ## Businesses in scope of this contract and some context on each
 
 ### ThePeerNet
 
-- Business Description/idea/model:
-- Current status of the business
-- Costs/sale price/margins etc:
-- Level of development effort
+#### Business Description/idea/model
 
-### RackRental
+A podcast network as a service. Also the media/broadcast division of TSYS Group.
 
-- Business Description/idea/model:
-- Current status of the business
-- Costs/sale price/margins etc:
-- Level of development effort
+#### Current status of the business  
 
-### Starting Line Productions
+- Five podcast episodes created for the initial show of the podcast network.
+- ReachableCEO is streaming and creating lots of content for turning into free / paid tiers for The ReachableCEO show.
 
-- Business Description/idea/model:
-- Current status of the business
-- Costs/sale price/margins etc:
-- Level of development effort
+#### Costs/sale price/margins etc
+
+- Core operating costs are low (just the domain name). KNEL absorbs the hosting costs as part of it's overall service delivery budget.
+- Content production / acquisition / development costs can be high.
+
+#### Level of (custom) development effort
+
+Very low.
+
+- Umbrel handles value 4 value.  
+- Castopod handles the podcast creation.
+- KNEL hosts the downloads and ancillary services (open streaming platform, craig , ad server etc).
+
+### Starting Line Productions and RackRental
+
+#### Business Description/idea/model
+
+A private, invite only maker space and (open to all non sanctioned / embargoed persons) network testing lab. Very well equipped. Soup to nuts small (consumer)(electronics) product prototyping/fabrication and network certification study lab.
+
+#### Current status of the business
+
+Physical build out is almost complete. We’ve had alpha / beta customers and paying customers.
+
+#### Costs/sale price/margins etc
+
+Substantial capital costs have been incurred for the build out by Wyble Family Office LLC and would need to be recouped before a profit can be turned.
+
+#### Level of development effort
+
+Low to Moderate.
+
+Can utilize the bookme plugin and some web hooks to KNEL services for provisioning access etc.
 
 ### sol-calc
 
-- Business Description/idea/model:
-- Current status of the business
-- Costs/sale price/margins etc:
-- Level of development effort
+#### Business Description/idea/model
+
+#### Current status of the business
+
+#### Costs/sale price/margins etc
+
+#### Level of development effort
 
 ### YourDreamNameHere
 
-- Business Description/idea/model:
-- Current status of the business
-- Costs/sale price/margins etc:
-- Level of development effort
+#### Business Description/idea/model
+
+#### Current status of the business
+
+#### Costs/sale price/margins etc
+
+#### Level of development effort
 
 - YourDreamNameHere (a business in a box to automate domain/social and back office provisioning) (would cross / up sell TeamRental.net as one of the vendor choices). Otherwise monthly affiliate revenue from SAAS vendors (quickbooks, office or gmail, etc) and a setup fee (I recommend two months of SAAS affiliate revenue as the setup fee). It’s nothing more than a domain and an idea. Should be very straightforward to build out using the KNEL micro services and a low code / no code platform (we have a few available and can spin them up if desired),
 
@@ -105,8 +155,8 @@ Should be very straightforward to build out using the KNEL micro services.
 
 For the businesses defined above:
 
-- Acme Co retains all infrastructure control (DNS/hosting etc)
-- Joint Venture Co retains all financial control (bank accounts/third party payment processors)
+- ProForma Party 1 retains all infrastructure control (DNS/hosting etc)
+- ProForma Party 2 retains all financial control (bank accounts/third party payment processors)
 
 This provides mutually assured destruction in the event of an attempted breach of contract by either party.
 
@@ -116,57 +166,57 @@ This provides mutually assured destruction in the event of an attempted breach o
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| Acme Co     | 90%                     |
-| Joint Venture Co     | 10%                     |
+| ProForma Party 1     | 90%                     |
+| ProForma Party 2     | 10%                     |
 
 ### Free Cash Flow sharing: StartingLineProductions
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| Acme Co     |  40%                    |
-| Joint Venture Co     |  60%                    |
+| ProForma Party 1     |  40%                    |
+| ProForma Party 2     |  60%                    |
 
 ### Free Cash Flow sharing: ThePeerNet
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| Acme Co     |                         |
-| Joint Venture Co     |                         |
+| ProForma Party 1     |                         |
+| ProForma Party 2     |                         |
 
 ### Profit Sharing: AP4AP
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| Acme Co     | 10%                     |
-| Joint Venture Co     |                         |
+| ProForma Party 1     | 10%                     |
+| ProForma Party 2     |                         |
 
 ### Profit Sharing: YourDreamNameHere
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| Acme Co     |  25%                    |
-| Joint Venture Co     |  75%                    |
+| ProForma Party 1     |  25%                    |
+| ProForma Party 2     |  75%                    |
 
 ### Profit Sharing: TeamRental
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| Acme Co     |  20%                    |
-| Joint Venture Co     |  80%                    |
+| ProForma Party 1     |  20%                    |
+| ProForma Party 2     |  80%                    |
 
 ### For MerchantsOfHope
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| Acme Co     |  10%                    |
-| Joint Venture Co     |  90%                    |
+| ProForma Party 1     |  10%                    |
+| ProForma Party 2     |  90%                    |
 
 ### For sol-calc
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| Acme Co     |  50%                    |
-| Joint Venture Co     |  50%                    |
+| ProForma Party 1     |  50%                    |
+| ProForma Party 2     |  50%                    |
 
 ## Scope of offer
 
@@ -178,7 +228,7 @@ Here are the  businesses in scope for this offer and some context on each:
 
 - RackRental.net (network test lab rental ). Alpha launching July. Hardware build out done (including power and apron). Early software dev underway, doing heavy dev on RR in June, will be main focus (after finalizing the KNEL micro services ).
 
-- Joint Venture Co will have total control over TeamRental/YourDreamNameHere/MerchantsOfHope. They can be closed/opensource, whatever you want.
+- ProForma Party 2 will have total control over TeamRental/YourDreamNameHere/MerchantsOfHope. They can be closed/opensource, whatever you want.
 
 - For sol-calc, the core micro service is GPLv3. You would have complete control over the branding / pricing etc of the SAAS front end (which is how most people would use it. So few would self host and they wouldn’t have paid anyway). This allows for the community to provide feedback on the algorithm. Could someone take it and launch a competing service ? Sure. Will they? Doubtful. Branding is a thing.
 
@@ -186,25 +236,25 @@ Here are the  businesses in scope for this offer and some context on each:
 
 ## Timelines and length of deal
 
-- Acme Co expects Joint Venture Co  to begin sales / marketing / development / fundraising etc efforts forthwith.
-- Acme Co expects Joint Venture Co to put in meaningful effort to generate revenue and profit.
-- A 180 calendar day period is hereby alloted for development and delivery efforts by Joint Venture Co to occur from the date of execution of this contract. If at the end of 180 days any or all of the businesses aren’t delivered or well on the way to delivery, the deal is hereby terminated.
-- Joint Venture Co is not required to provide any particular form / frequency of status updates during the period. Joint Venture Co may elect to provide status updates as they see fit. Joint Venture Co is welcome to utilize Known Element Enterprises Redmine instance if they wish todo so. Any other project/tasks/issue management system is acceptable as well. Also none at all may be used. It's entirely up to Joint Venture Co management discretion.
-- Acme Co will not provide any financial resources (beyond paying for domain registration and operating the current infrastructure). Any and all expenses will paid for by Joint Venture Co as they will be receiving majority revenue or profit share.
+- ProForma Party 1 expects ProForma Party 2  to begin sales / marketing / development / fundraising etc efforts forthwith.
+- ProForma Party 1 expects ProForma Party 2 to put in meaningful effort to generate revenue and profit.
+- A 180 calendar day period is hereby alloted for development and delivery efforts by ProForma Party 2 to occur from the date of execution of this contract. If at the end of 180 days any or all of the businesses aren’t delivered or well on the way to delivery, the deal is hereby terminated.
+- ProForma Party 2 is not required to provide any particular form / frequency of status updates during the period. ProForma Party 2 may elect to provide status updates as they see fit. ProForma Party 2 is welcome to utilize Known Element Enterprises Redmine instance if they wish todo so. Any other project/tasks/issue management system is acceptable as well. Also none at all may be used. It's entirely up to ProForma Party 2 management discretion.
+- ProForma Party 1 will not provide any financial resources (beyond paying for domain registration and operating the current infrastructure). Any and all expenses will paid for by ProForma Party 2 as they will be receiving majority revenue or profit share.
 
-## Acme Co responsibilities and context
+## Responsibilities and context for ProForma Party 1
 
 - Known Element Enterprises LLC (KNEL) (the TSYS group management company) (see <https://community.turnsys.com/t/tsys-group-taxonomy/64> for an overview of TSYS group) will provide core IT/business infrastructure on the same footing as it provides to other TSYS group businesses. Including marketing website,business intelligence, ERP, marketing, web analytics, backups , monitoring, mailing lists, accounting and other back office functions. This support does NOT include compute / storage / network for customer workloads or data, except for RackRental (at Richelle) and STL (and any franchisees of STL). Franchisees of RackRental and STL  must provide compute / storage / network / rentable assets  (which would be inherent in the fact that they have capacity in r assets to rent and would have built all that out), but must use the core KNEL IT/business systems as a control plane (for rentals). Also sol-calc compute /storage / network will be provided by KNEL.
 - RackRental.net Operating Company LLC will complete the development of RackRental middleware / backend (micro services). The code will remain proprietary to RackRental. It will be exposed as micro services.
-- Joint Venture Co and Known Element Enteprises LLC will jointly complete the development of signup, payment, provisioning micro services for . The code will be developed as micro services and made available for use by the other businesses.
+- ProForma Party 2 and Known Element Enteprises LLC will jointly complete the development of signup, payment, provisioning micro services for . The code will be developed as micro services and made available for use by the other businesses.
 
-## Joint Venture Co responsibilities and context
+## Rresponsibilities and context for ProForma Party 2
 
 - you want to be a leader, be in the driver seat, put your brand/stamp on everything
 
 - you have a deep network of personnel/talent , a deep contact network etc
 
-- Acme Co has no real interest in these “ancillary businesses” but would like to retain a minority silent stake.
+- ProForma Party 1 has no real interest in these “ancillary businesses” but would like to retain a minority silent stake.
 
 - The only thing I ask, is that TSYS Group/Redwood Group and the Non Profits get use of the stack forever at 0 charge (we would pay any actual costs like domain registration of course). (I have an on-premise computer room that will handle all of the heavy compute/storage for all of those companies, so we wouldn’t eat into your margins).
 
