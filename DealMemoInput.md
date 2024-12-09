@@ -1,46 +1,52 @@
 - [Joint Venture Proposal between {{PARTY1}} and {{PARTY2}}](#joint-venture-proposal-between-party1-and-party2)
   - [Parties to the contract](#parties-to-the-contract)
-  - [Businesses in scope of this contract and some context on each](#businesses-in-scope-of-this-contract-and-some-context-on-each)
     - [AP4AP](#ap4ap)
       - [Business Description/idea/model](#business-descriptionideamodel)
+        - [Executive Summary](#executive-summary)
+        - [Details](#details)
       - [Current status of the business](#current-status-of-the-business)
-      - [Costs/sale price/margins etc](#costssale-pricemargins-etc)
       - [Level of development effort](#level-of-development-effort)
       - [Distributions](#distributions)
     - [MerchantsOfHope](#merchantsofhope)
       - [Business Description/idea/model](#business-descriptionideamodel-1)
+        - [Executive Summary](#executive-summary-1)
+        - [Details](#details-1)
       - [Current status of the business](#current-status-of-the-business-1)
-      - [Costs/sale price/margins etc](#costssale-pricemargins-etc-1)
       - [Level of development effort](#level-of-development-effort-1)
       - [Distribution proposal](#distribution-proposal)
     - [sol-calc](#sol-calc)
       - [Business Description/idea/model](#business-descriptionideamodel-2)
+        - [Executive Summary](#executive-summary-2)
+        - [Details](#details-2)
       - [Current status of the business](#current-status-of-the-business-2)
-      - [Costs/sale price/margins etc](#costssale-pricemargins-etc-2)
       - [Level of development effort](#level-of-development-effort-2)
       - [Distributions](#distributions-1)
     - [Starting Line Productions](#starting-line-productions)
       - [Business Description/idea/model](#business-descriptionideamodel-3)
+        - [Executive Summary](#executive-summary-3)
+        - [Details](#details-3)
       - [Current status of the business](#current-status-of-the-business-3)
-      - [Costs/sale price/margins etc](#costssale-pricemargins-etc-3)
       - [Level of development effort](#level-of-development-effort-3)
       - [Distributions](#distributions-2)
     - [TeamRental](#teamrental)
       - [Business Description/idea/model](#business-descriptionideamodel-4)
+        - [Executive Summary](#executive-summary-4)
+        - [Details](#details-4)
       - [Current status of the business](#current-status-of-the-business-4)
-      - [Costs/sale price/margins etc](#costssale-pricemargins-etc-4)
       - [Level of development effort](#level-of-development-effort-4)
       - [Distributions](#distributions-3)
     - [ThePeerNet](#thepeernet)
       - [Business Description/idea/model](#business-descriptionideamodel-5)
+        - [Executive Summary](#executive-summary-5)
+        - [Details](#details-5)
       - [Current status of the business](#current-status-of-the-business-5)
-      - [Costs/sale price/margins etc](#costssale-pricemargins-etc-5)
       - [Level of (custom) development effort](#level-of-custom-development-effort)
       - [Distributions](#distributions-4)
     - [YourDreamNameHere](#yourdreamnamehere)
       - [Business Description/idea/model](#business-descriptionideamodel-6)
+        - [Executive Summary](#executive-summary-6)
+        - [Details](#details-6)
       - [Current status of the business](#current-status-of-the-business-6)
-      - [Costs/sale price/margins etc](#costssale-pricemargins-etc-6)
       - [Level of development effort](#level-of-development-effort-5)
       - [Distributions](#distributions-5)
   - [Timelines and length of deal](#timelines-and-length-of-deal)
@@ -63,26 +69,17 @@ Party 2:
 Legal Name of {{PARTY2}}:
 Mailing/physical address of {{PARTY2}}:
 
-## Businesses in scope of this contract and some context on each
-
-Here are the  businesses in scope for this offer and some context on each:
-
-
-- StartingLineProductions.com (electronics lab / dirty and clean fabrication / kitchen / meeting room rental). 99% built out. Already did alpha and beta testing with live customers and had first paying customer. Product market fit found.
-
-- {{PARTY2}} will have total control over ThePeerNet/TeamRental/YourDreamNameHere/MerchantsOfHope. They can be closed/opensource, whatever you want.
-
-- For sol-calc, the core micro service is GPLv3. You would have complete control over the branding / pricing etc of the SAAS front end (which is how most people would use it. So few would self host and they wouldn’t have paid anyway). This allows for the community to provide feedback on the algorithm. Could someone take it and launch a competing service ? Sure. Will they? Doubtful. Branding is a thing.
-
-- sol-calc.com (solar calculator I’ve been building as I am doing a custom design / ground mount of 5kw of panels. Very early microservice development underway.
-
 ### AP4AP
 
 #### Business Description/idea/model
 
-#### Current status of the business
+##### Executive Summary
 
-#### Costs/sale price/margins etc
+##### Details
+
+- [WIP Biz/Ops/Product plan](https://git.knownelement.com/Ap4Ap.org/Ap4Ap.org-bizopprodplan)
+
+#### Current status of the business
 
 #### Level of development effort
 
@@ -97,16 +94,20 @@ Here are the  businesses in scope for this offer and some context on each:
 
 #### Business Description/idea/model
 
-- Idea is to have a freelance platform that isn’t horrible like upwork etc has become) (would cross/up sell TeamRental/YDN). 
+##### Executive Summary
+
+- Idea is to have a freelance platform that isn’t horrible like upwork etc has become) (would cross/up sell TeamRental/YDN).
 - Joint venture with DevWranglers
+
+##### Details
+
+- [WIP Biz/Ops/Product plan](https://git.knownelement.com/MerchantsOfHope.org/MerchantsOfHope.org-bizopprodplan)
 
 #### Current status of the business
 
 - MSP:
 - Agency admin:
 - Main site: Nothing more than a domain. Completely open field.
-
-#### Costs/sale price/margins etc
 
 #### Level of development effort
 
@@ -121,9 +122,17 @@ Here are the  businesses in scope for this offer and some context on each:
 
 #### Business Description/idea/model
 
-#### Current status of the business
+##### Executive Summary
 
-#### Costs/sale price/margins etc
+- For sol-calc, the core micro service is GPLv3. You would have complete control over the branding / pricing etc of the SAAS front end (which is how most people would use it. So few would self host and they wouldn’t have paid anyway). This allows for the community to provide feedback on the algorithm. Could someone take it and launch a competing service ? Sure. Will they? Doubtful. Branding is a thing.
+
+- sol-calc.com (solar calculator I’ve been building as I am doing a custom design / ground mount of 5kw of panels. Very early microservice development underway.
+
+##### Details
+
+- [WIP Biz/Ops/Product plan](https://git.knownelement.com/sol-calc.com/sol-calc.com-bizopprodplan)
+
+#### Current status of the business
 
 #### Level of development effort
 
@@ -138,15 +147,18 @@ Here are the  businesses in scope for this offer and some context on each:
 
 #### Business Description/idea/model
 
+##### Executive Summary
+
+StartingLineProductions.com (electronics lab / dirty and clean fabrication / kitchen / meeting room rental). 99% built out.
 A private, invite only maker space / RF / PCB fabrication workshop. Very well equipped. Soup to nuts small (consumer)(electronics) product prototyping/fabrication and network certification study lab.
+
+##### Details
+
+- [WIP Biz/Ops/Product plan](https://git.knownelement.com/StartingLineProductions.com/startinglineproductions.com-bizopprodplan)
 
 #### Current status of the business
 
-Physical build out is almost complete. We’ve had alpha / beta customers and paying customers.
-
-#### Costs/sale price/margins etc
-
-Substantial capital costs have been incurred for the build out by Wyble Family Office LLC and would need to be recouped before a profit can be turned.
+Physical build out is almost complete. We’ve had alpha / beta customers and paying customers. Product market fit found.
 
 #### Level of development effort
 
@@ -165,9 +177,13 @@ Can utilize the bookme plugin and some web hooks to KNEL services for provisioni
 
 #### Business Description/idea/model
 
-#### Current status of the business
+##### Executive Summary
 
-#### Costs/sale price/margins etc
+##### Details
+
+- [WIP Biz/Ops/Product plan](https://git.knownelement.com/TeamRental.net/teamrental.net-bizopprodplan)
+
+#### Current status of the business
 
 #### Level of development effort
 
@@ -197,17 +213,20 @@ Should be very straightforward to build out using the KNEL micro services.
 
 #### Business Description/idea/model
 
+##### Executive Summary
+
+##### Details
+
+- [WIP Biz/Ops/Product plan](https://git.knownelement.com/ThePeerNet.com/ThePeerNet.com-bizopprodplan)
+- Core operating costs are low (the domain name). KNEL absorbs the hosting costs as part of it's service delivery budget.
+- Content production / acquisition / development costs can be high.
+
 A podcast network as a service. Also the media/broadcast division of TSYS Group.
 
-#### Current status of the business  
+#### Current status of the business
 
 - Five podcast episodes created for the initial show of the podcast network.
 - ReachableCEO is streaming and creating lots of content for turning into free / paid tiers for The ReachableCEO show.
-
-#### Costs/sale price/margins etc
-
-- Core operating costs are low (just the domain name). KNEL absorbs the hosting costs as part of it's overall service delivery budget.
-- Content production / acquisition / development costs can be high.
 
 #### Level of (custom) development effort
 
@@ -228,14 +247,17 @@ Very low.
 
 #### Business Description/idea/model
 
-#### Current status of the business
+##### Executive Summary
 
-#### Costs/sale price/margins etc
+##### Details
+
+- [WIP Biz/Ops/Product plan](https://git.knownelement.com/YourDreamNameHere.com/YourDreamNameHere.com-bizopprodplan)
+
+#### Current status of the business
 
 #### Level of development effort
 
 - YourDreamNameHere (a business in a box to automate domain/social and back office provisioning) (would cross / up sell TeamRental.net as one of the vendor choices). Otherwise monthly affiliate revenue from SAAS vendors (quickbooks, office or gmail, etc) and a setup fee (I recommend two months of SAAS affiliate revenue as the setup fee). It’s nothing more than a domain and an idea. Should be very straightforward to build out using the KNEL micro services and a low code / no code platform (we have a few available and can spin them up if desired),
-
 
 #### Distributions
 
@@ -250,7 +272,6 @@ For the businesses defined above:
 - {{PARTY2}} retains all financial control (bank accounts/third party payment processors)
 
 This provides mutually assured destruction in the event of an attempted breach of contract by either party.
-
 
 ## Timelines and length of deal
 
@@ -267,6 +288,8 @@ This provides mutually assured destruction in the event of an attempted breach o
 - {{PARTY2}} and Known Element Enteprises LLC will jointly complete the development of signup, payment, provisioning micro services for {{ANCILLARY_BUSINESSES}}. The code will be developed as micro services and made available for use by the other businesses.
 
 ## Rresponsibilities and context for {{PARTY2}}
+
+- {{PARTY2}} will have total control over ThePeerNet/TeamRental/YourDreamNameHere/MerchantsOfHope. They can be closed/opensource, whatever you want.
 
 - you want to be a leader, be in the driver seat, put your brand/stamp on everything
 
