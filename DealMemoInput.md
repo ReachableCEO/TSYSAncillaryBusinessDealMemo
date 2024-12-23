@@ -4,10 +4,12 @@
 
 Party 1:
 
-{{PARTY1}}
+{{PARTY1}} jointly with Known Element Enterprises LLC 
 
 - Full Legal Name of {{PARTY1}}:
 - Mailing/physical address of {{PARTY1}}:
+
+ 
 
 Party 2:
 
@@ -16,7 +18,11 @@ Party 2:
 - Legal Name of {{PARTY2}}:
 - Mailing/physical address of {{PARTY2}}:
 
-## Businesses in scope of this contract
+## TSYS Group Ancillary Businesses in scope of this contract 
+
+### Redwood Springs Capital Partners (RWSCP) LLC 
+
+#### RWSCP Pitch 
 
 ### AP4AP.org
 
