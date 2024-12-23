@@ -238,9 +238,78 @@ YourDreamNameHere (a business in a box to automate domain/social and back office
 ## Responsibilities and context for {{PARTY1}}
 
 - {{PARTY1}} retains all infrastructure control (DNS/hosting etc)
-- Known Element Enterprises LLC (KNEL) (the TSYS group management company) (see <https://community.turnsys.com/t/tsys-group-taxonomy/64> for an overview of TSYS group) will provide core IT/business infrastructure on the same footing as it provides to other TSYS group businesses. Including marketing website,business intelligence, ERP, marketing, web analytics, backups , monitoring, mailing lists, accounting and other back office functions. This support does NOT include compute / storage / network for customer workloads or data, except for RackRental (at Richelle) and STL (and any franchisees of STL). Franchisees of RackRental and STL  must provide compute / storage / network / rentable assets  (which would be inherent in the fact that they have capacity in r assets to rent and would have built all that out), but must use the core KNEL IT/business systems as a control plane (for rentals). Also sol-calc compute /storage / network will be provided by KNEL.
-- RackRental.net Operating Company LLC will complete the development of RackRental middleware / backend (micro services). The code will remain proprietary to RackRental. It will be exposed as micro services.
-- {{PARTY2}} and Known Element Enteprises LLC will jointly complete the development of signup, payment, provisioning micro services for {{ANCILLARY_BUSINESSES}}. The code will be developed as micro services and made available for use by the other businesses.
+- Known Element Enterprises LLC (aka KNEL) (in its capacity as the Turnkey Network Systems LLC (TSYS group) management company) (see <https://community.turnsys.com/t/tsys-group-taxonomy/64> for an overview of TSYS group) will provide core IT/business infrastructure services on the same footing as it provides them to other TSYS group businesses. 
+
+This includes: 
+
+- marketing campaign service (Mautic)
+- Frontend (marketing/sales) website hosting (Wordpress or Grav or both)
+- Reasonable (to be determined / negotiated) business specific application runtime capacity on the KNEL coolify bizapp instance. 
+- business intelligence (Superset)
+- ERP instance (Dolibarr)
+- web analytics (Matomo)
+- backups 
+- up/down and lightweight application monitoring (Uptime Kuma)
+- Survey 
+- Finance planning (Firefly)
+- Billing (Killbill)
+- Payment Gateway (Hyperswitch)
+- Project Management (Redmine)
+- Customer Support (Freescout)
+- API Gateway (TBD)
+- Serverless runtime (TBD)
+- Email (with a total of 1gb quota aggregate across all mailboxes) (for non customer , corporate use only).
+- Nextcloud (with a total of 5gb quota across all users) (for non customer, corporate use only).
+- Various other business specific back office or middleware functions as negotiated between KNEL and {{PARTY2}}.
+
+This support does NOT include : 
+
+- compute 
+- storage 
+- bandwidth 
+- connectivity 
+
+for customer workloads or data. That will need to be provided at {{PARTY2}} full expense , ownership and responsibility.
+
+KNEL will work with {{PARTY2}} in a prompt , professional manner to facilitate secure , necessary connections and data flow between KNEL back end systems (such as API and payment gateways and other functions listed above or otherwise negotiated) and {{PARTY2}} customer workload systems. 
+
+An exception to the provision of 
+
+- compute 
+- storage
+- bandwidth 
+- connectivity 
+
+
+is granted for :
+
+- RackRental.net (the franchise at Richelle) 
+- STL (the franchise at Richelle).
+- sol-calc.com micro service (and the TSYS front end franchise at sol-calc.com). 
+
+Any other franchises of: 
+
+- RackRental 
+- STL  
+- sol-calc front ends 
+
+must provide their own:
+
+- compute 
+- storage 
+- network 
+- (for RackRental and STL franchisees) rentable assets
+- (for sol-calc micro service franchisees) frontend website
+
+which would be an inherent requirement in in the franchise agreement, that the franchisees have capacity/assets to rent and would have built all that out at their own expense. 
+
+KNEL will provide franchisees use of the KNEL systems as a control/support plane (for rentals) and all franchisees must use KNEL systems exclusively. 
+
+
+- RackRental.net Operating Company LLC will complete the development of RackRental middleware / backend (micro services). The code will remain proprietary to RackRental.net Operating Company LLC. It will be exposed as micro services for use by franchisees).
+ 
+- {{PARTY2}} and Known Element Enteprises LLC will jointly complete the deployment , necessary custom development and configuration of signup, payment etc micro services for each ancillary business as needed.
+
 
 ## Responsibilities and context for {{PARTY2}}
 
