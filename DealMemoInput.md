@@ -308,26 +308,56 @@ KNEL will provide franchisees use of the KNEL systems as a control/support plane
 
 - RackRental.net Operating Company LLC will complete the development of RackRental middleware / backend (micro services). The code will remain proprietary to RackRental.net Operating Company LLC. It will be exposed as micro services for use by franchisees).
  
-- {{PARTY2}} and Known Element Enteprises LLC will jointly complete the deployment , necessary custom development and configuration of signup, payment etc micro services for each ancillary business as needed.
+- {{PARTY2}} and Known Element Enteprises LLC will jointly complete the deployment, necessary custom development and configuration of signup, payment etc micro services for each ancillary business as needed.
 
 
 ## Responsibilities and context for {{PARTY2}}
 
-- {{PARTY2}} retains all financial control (bank accounts/third party payment processors)
+- {{PARTY2}} will retain all financial control (bank accounts/third party payment processors) of the business. 
 
-- {{PARTY2}} will have total control over ThePeerNet/TeamRental/YourDreamNameHere/MerchantsOfHope. They can be closed/opensource, whatever you want.
+- {{PARTY2}} will have total control over the:
+- Business Plan
+- Funding / Fundraising 
+- Website 
+- Application 
+- Customers
+- Partners
+- Vendors (as long as they don’t provide a service provided by KNEL) (or a negotiated exception is granted)
+- Employees
+- Contractors 
+- Licensing of code 
+- Terms of service 
+- Pricing
+- Executive team 
+- Series LLC members 
+- Series LLC operating agreement (other than non override parts from the Turnkey Network Systems LLC operating agreement)
+- TSYS Group board committee for the series 
+- etc  
 
-- you want to be a leader, be in the driver seat, put your brand/stamp on everything
+for the following businesses:    
 
-- you have a deep network of personnel/talent , a deep contact network etc
+- TeamRental
+- RackRental.net (non Richelle franchises) (close consultation / collaboration / code availability on any development done on the RackRental.net micro services) 
+- STL (non Richelle franchises) close consultation / collaboration / code availability on any development done on the STL micro services)
+- YourDreamNameHere
+- MerchantsOfHope
+- Redwood Springs Capital Partners (excluding the TopHat Fund) (and any/all other funds that may emerge in the future related to fundraising for Suborbital Systems , HFNOC, HFNFC).
+- Ap4ap.org 
+- sol-calc.com micro service (it will remain under its custom license) 
 
-- {{PARTY1}} has no real interest in these “ancillary businesses” but would like to retain a minority silent stake.
 
-- The only thing I ask, is that TSYS Group/Redwood Group and the Non Profits get use of the stack forever at 0 charge (we would pay any actual costs like domain registration of course). (I have an on-premise computer room that will handle all of the heavy compute/storage for all of those companies, so we wouldn’t eat into your margins).
+- {{PARTY2}} wants to be a leader, be in the driver seat, put their brand/stamp on everything. 
 
-- RackRental is pretty core to suborbital, so I would retain development control over it. It’s closed source and would remain so. It has some hefty middleware and backend bits (three racks of gear). Also I have GPU cluster and that needs to remain ITAR controlled. I just don’t want to deal with marketing/sales/go-to-market.
+- {{PARTY2}} has a deep network of personnel/talent , a deep contact network etc to increase the likelihood of success. 
 
-- StartingLineProductions is pretty integral to Suborbital in terms of us using it to manage our R&D overhead. Open to discuss specifics of how that would work. Maybe some kind of multi tenant setup and we have full control of our tenant?
+- {{PARTY2}} understands that {{PARTY1}} has no real interest in these ancillary businesses but would like to retain a minority silent stake in exchange for providing the following contributions: 
+ 
+- brand
+- KNEL back office
+- this contract
+- StartupStarterPackage
+
+
 
 ## Shared Responsibilities and context for {{PARTY1}} and {{PARTY2}}
 
