@@ -24,6 +24,16 @@ Party 2:
 
 #### RWSCP Pitch 
 
+- RWSCP Executive Summary  
+
+#### RWSCP Details 
+
+### RWSCP Current status of the business
+
+#### RWSCP Level of development effort
+
+#### RWSCP Distributions
+
 ### AP4AP.org
 
 #### AP4AP.org Pitch
@@ -263,6 +273,7 @@ This includes:
 - Project Management (Redmine)
 - Customer Support (Freescout)
 - API Gateway (TBD)
+- E-signature 
 - Serverless runtime (TBD)
 - Email (with a total of 1gb quota aggregate across all mailboxes) (for non customer , corporate use only).
 - Nextcloud (with a total of 5gb quota across all users) (for non customer, corporate use only).
