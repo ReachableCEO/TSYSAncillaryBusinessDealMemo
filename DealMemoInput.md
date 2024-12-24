@@ -1,4 +1,4 @@
-# Joint Venture Contract between {{PARTY1}} and {{PARTY2}} for one or more TSYS Group Businesses
+# Joint Venture Contract (draft) (non reviewed or board approved) between {{PARTY1}} and {{PARTY2}} for one or more TSYS Group Businesses
 
 ## Parties to the contract
 
