@@ -17,6 +17,19 @@ Party 2:
 - Legal Name of {{PARTY2}}:
 - Mailing/physical address of {{PARTY2}}:
 
+## Organizations not in scope in this contract 
+
+- Turnkey Network Systems LLC (as a whole) (certain (super) series LLCs of Turnkey Network Systems LLC are in scope as called out in this contract)
+- ReachableCEO Enterprises LOC
+- HFNOC (super series) and all affiliated legal entities 
+- HFNFC (super series) and all affiliated legal entities 
+- Suborbital Systems Development Company LLC 
+- Suborbital Systems (series) LLC
+- RackRental.net Operating Company LLC (except as a party to franchise agreements)
+- RackRental.net (series) LLC
+
+None of the above entities have any privity created by this contract and are not in any way in scope (either by letter or spirit) of this contract.  
+
 
 ## TSYS Group Ancillary Organizations in scope of this contract 
 
