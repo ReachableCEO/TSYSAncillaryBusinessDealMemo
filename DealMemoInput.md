@@ -20,13 +20,13 @@ Party 2:
 ## Organizations not in scope in this contract 
 
 - Turnkey Network Systems LLC (as a whole) (certain (super) series LLCs of Turnkey Network Systems LLC are in scope as called out in this contract)
-- ReachableCEO Enterprises LOC
-- HFNOC (super series) and all affiliated legal entities 
+- ReachableCEO Enterprises LLC
+- HFNOC (super series) LLC and all affiliated legal entities 
 - HFNFC (super series) and all affiliated legal entities 
 - Suborbital Systems Development Company LLC 
 - Suborbital Systems (series) LLC
-- RackRental.net Operating Company LLC (except as a party to franchise agreements)
-- RackRental.net (series) LLC
+- RackRental.net Operating Company LLC (except as a co-party to franchise agreements)
+- RackRental.net (series) LLC (except as a co-party to franchise agreements)
 
 None of the above entities have any privity created by this contract and are not in any way in scope (either by letter or spirit) of this contract.  
 
@@ -62,9 +62,8 @@ None of the above entities have any privity created by this contract and are not
 
 RWSCP is a ground up re-take on the venture capital model. It invests deeply in :
 
-	` hard/deep tech (partnering deeply with STL)
-	- B2B/B2G 
-	- Gov tech (Usually in the hard/deep tech space but not exclusively) (partnering deeply with MerchantsOfHope)
+	- hard/deep tech (b2b, b2c, b2g) (partnering deeply with STL)
+	- Gov tech (b2g) Usually in the hard/deep tech space but not exclusively) (partnering deeply with MerchantsOfHope)
 	
 	- It is aggresively targeting the following distribution of outcomes:
 		- 90% full success rate of 20x or more return 
