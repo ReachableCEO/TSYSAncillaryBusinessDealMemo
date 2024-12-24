@@ -18,7 +18,30 @@ Party 2:
 - Mailing/physical address of {{PARTY2}}:
 
 
-## TSYS Group Ancillary Businesses in scope of this contract 
+## TSYS Group Ancillary Organizations in scope of this contract 
+
+### Americans For A Better Network (AFABN) / Side Door (Solutions) Group (SDG) INC (TX non profit/intent to be 501c3/c4/(SUPER)PAC)
+
+#### SDG/AFABN Executive Summary
+
+- (Super)PAC/501c4 as a service (SideDoorGroup)
+- Education 501c3 (AFABN)
+- Call to action/activism as a service (Side Door Solutions Group)
+
+#### SDG/AFABN Details
+
+- Please see the [SDG WIP Biz/Ops/Product plan](https://git.knownelement.com/SideDoorGroup/SDG-bizopprodplan) 
+- Please see the [AFABN WIP Biz/Ops/Product plan ](https://git.knownelement.com/AFABN/AFABN-bizopprodplan)
+
+#### SDG/AFABN Current Status of the organization
+
+- Entities created
+- Board committees established
+- Charters adopted 
+
+#### SDG/AFABN Projected level of development effort (non legally binding)
+
+
 
 ### Redwood Springs Capital Partners (RWSCP) LLC 
 
@@ -44,7 +67,7 @@ RWSCP is a ground up re-take on the venture capital model. It invests deeply in 
 
 #### RWSCP Details 
 
-- Please see WIP Biz/Ops/Product plan 
+- Please see [RWSCP WIP Biz/Ops/Product plan](https://git.knownelement.com/RWSCP/RWSCP-bizopprodplan) 
 
 #### RWSCP Current Status of the business
 
@@ -290,9 +313,10 @@ This includes:
 - business intelligence (Superset)
 - ERP instance (Dolibarr)
 - web analytics (Matomo)
-- backups 
+- backups (of KNEL microservices and wordpress/grav site and bizapp application code/data (stored in KNEL microservice systems)
 - up/down and lightweight application monitoring (Uptime Kuma)
-- Survey 
+- Survey (LImeSurvey)
+- GIT (Gitea)
 - Finance planning (Firefly)
 - Billing (Killbill)
 - Payment Gateway (Hyperswitch)
