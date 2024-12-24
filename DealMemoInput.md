@@ -1,15 +1,14 @@
-# Joint Venture Proposal between {{PARTY1}} and {{PARTY2}}
+# Joint Venture Contract between {{PARTY1}} and {{PARTY2}} for one or more TSYS Group Businesses
 
 ## Parties to the contract
 
 Party 1:
 
-{{PARTY1}} jointly with Known Element Enterprises LLC 
+{{PARTY1}} (jointly with Known Element Enterprises LLC)
 
 - Full Legal Name of {{PARTY1}}:
 - Mailing/physical address of {{PARTY1}}:
 
- 
 
 Party 2:
 
@@ -18,27 +17,77 @@ Party 2:
 - Legal Name of {{PARTY2}}:
 - Mailing/physical address of {{PARTY2}}:
 
-## TSYS Group Ancillary Businesses in scope of this contract 
+
+## TSYS Group Ancillary Organizations in scope of this contract 
+
+### Americans For A Better Network (AFABN) / Side Door (Solutions) Group (SDG) INC (TX non profit/intent to be 501c3/c4/(SUPER)PAC)
+
+#### SDG/AFABN Executive Summary
+
+- (Super)PAC/501c4 as a service (SideDoorGroup)
+- Education 501c3 (AFABN)
+- Call to action/activism as a service (Side Door Solutions Group)
+
+#### SDG/AFABN Details
+
+- Please see the [SDG WIP Biz/Ops/Product plan](https://git.knownelement.com/SideDoorGroup/SDG-bizopprodplan) 
+- Please see the [AFABN WIP Biz/Ops/Product plan ](https://git.knownelement.com/AFABN/AFABN-bizopprodplan)
+
+#### SDG/AFABN Current Status of the organization
+
+- Entities created
+- Board committees established
+- Charters adopted 
+
+#### SDG/AFABN Projected level of development effort (non legally binding)
+
+
 
 ### Redwood Springs Capital Partners (RWSCP) LLC 
 
-#### RWSCP Pitch 
+#### RWSCP Executive Summary
 
-- RWSCP Executive Summary  
+RWSCP is a ground up re-take on the venture capital model. It invests deeply in :
+
+	` hard/deep tech (partnering deeply with STL)
+	- B2B/B2G 
+	- Gov tech (Usually in the hard/deep tech space but not exclusively) (partnering deeply with MerchantsOfHope)
+	
+	- It is aggresively targeting the following distribution of outcomes:
+		- 90% full success rate of 20x or more return 
+		- 5% partial success rate of 5-10x or more return 
+		- 5% rate of merger/aquisition/acquohire etc (soft landings) (sometimes the product or service is fantastic but the execution is problematic or culture has rotted)
+
+		We do this through:
+		- having a stadardized pitch package available online and licensed under AGPLv3 (in hopes other firms adopt our value creating/capital growth ways) 
+		- an extremely proprietary, quantative and qualatative data driven pitch scoring and evaluation system. 
+		
+				
+		
 
 #### RWSCP Details 
 
-### RWSCP Current status of the business
+- Please see [RWSCP WIP Biz/Ops/Product plan](https://git.knownelement.com/RWSCP/RWSCP-bizopprodplan) 
 
-#### RWSCP Level of development effort
+#### RWSCP Current Status of the business
 
-#### RWSCP Distributions
+- Management company is close to being fully formed
+- GP is being stood up 
+- Funds are in the branding/design/formation phase,
+- LPs are being actively courted.
+
+#### RWSCP Projected Level of development effort  (non legally binding)
+#### RWSCP Opening Offer of Distributions 
+
+| Contract Party | Distribution Percentage |
+|----------------|-------------------------|
+| {{PARTY1}}     | 10%                     |
+| {{PARTY2}}     | 90%                     |
+
 
 ### AP4AP.org
 
-#### AP4AP.org Pitch
-
-- AP4AP.org Executive Summary
+#### AP4AP.org Executive Summary
 
 Ap4ap is a ground up take on person to person connection. 
 
@@ -49,7 +98,7 @@ Ap4ap is a ground up take on person to person connection.
 
 It’s meant to grow organically. See: https://lobste.rs/about for the core inspiration of how we want Ap4ap to grow. We are putting our own twist on it with in person connection required and having meetups and offline activities be at the core.  
 
-- AP4AP.org Details
+ A#P4AP.org Details
 
   - Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/Ap4Ap.org/Ap4Ap.org-bizopprodplan)
 
@@ -264,9 +313,10 @@ This includes:
 - business intelligence (Superset)
 - ERP instance (Dolibarr)
 - web analytics (Matomo)
-- backups 
+- backups (of KNEL microservices and wordpress/grav site and bizapp application code/data (stored in KNEL microservice systems)
 - up/down and lightweight application monitoring (Uptime Kuma)
-- Survey 
+- Survey (LImeSurvey)
+- GIT (Gitea)
 - Finance planning (Firefly)
 - Billing (Killbill)
 - Payment Gateway (Hyperswitch)
