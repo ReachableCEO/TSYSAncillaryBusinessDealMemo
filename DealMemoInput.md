@@ -1,28 +1,182 @@
-# Joint Venture Contract (draft) (non reviewed or board approved) between {{PARTY1}} and {{PARTY2}} for one or more TSYS Group Businesses
+# Joint Venture Contract (draft) (non reviewed or board approved) between {{PARTY1}} and {{PARTY2}} for one or more TSYS Group In Scope Components
+
+## Introduction 
+
+- This contract is meant to be a public document and serve as a template showing the terms and conditions of a joint venture between two parties for the successful development of a TSYS Group In Scope Component.
+
+- This contract content is under the AGPL v3.0 only (excluding the party 2 details which will remain private and confidential).. Party 2 may elect to have the forked repository be public/read only as they wish.  Party 1 hereby agrees to that option automatically upon Party 2 election todo so.
+
+- This repository is meant to be forked to a private, proprietary / confidential repository for execution (with the only permitted proprietary alterations being the party details, entity in scope, execution date). If any other modifications are needed, they must be done in this repository and placed under AGPL v3.0 only. This allows for transparency , pre-deal due-diligence and confidentiality of the involved development party.
+
+- Party 1 formal legal name is TBD but prior to disclosure can be considered as a fund/vehicle of Redwood Springs Capital Partners LLC , aka FUNDCO as a placeholder. Details remain to be worked out around legal / administrative / tax implications etc for the fund/vehicle being a joint development fund for all ventures or a fund per venture etc.Those details will have no material effect on the letter or spirit of this contract. They are the dotting of I and crossing of T inherent in creating a venture capital firm and it's funds/vehicles. The funds/vehicles will be purely for the purposes of asset segregation, liability scoping, administrative matters, licensing/ownership of IP, taxes, accounting and related  purposes. They will make whatever investment in the component and then receive any returns or other outcomes that may occur. They are purely single purpose shell entities. 
+
+- Party 1 name/names (the fund or funds) related to each component will be listed herein when finalized (by February 1st 2025). The fund name will serve as a link to the AGPL v3.0 licensed GIT repository with the fund agreement.
+
+- Party 2 can be any "person" (legal entity or individual) who can legally enter into a contract with a US entity (ie not subject to sanctions).
+
+- This contract is governed solely by Texas law. 
+
+- All disputes are hereby auto resolved in the favor of PARTY1.
+
+- All rights to trial by jury, arbitration, relief of any kind are hereby waved by {{PARTY2}} (except in cases of clear civil or criminal acts by PARTY1 officers) (gross negligence) etc as is standard exception in the law..
+
+- {{PARTY2}} hereby certifies they have conducted extensive due diligence on {{PARTY1}} and the {{INSCOPEENTITY}} including any public material and private material that may have been provided by the officers of {{PARTY1}} and/or the officers of the {{INSCOPEENTITY}} and are entering into this agreement having fully read and understood it.
+
+- {{PARTY2}} may only enter into contract for a single in scope component listed herein as defined in the section "Parties to the contract" sub section "Entity that {{PARTY2}} is agreeing to develop"..
+
 
 ## Parties to the contract
 
-Party 1:
+### Party 1:
 
 {{PARTY1}} 
 - Full Legal Name of {{PARTY1}}:
 - Mailing/physical address of {{PARTY1}}:
 
+### Entity that {{PARTY2}} is agreeing to develop :
+{{INSCOPEENTITY}}
 
-Party 2:
+### Party 2:
 
 {{PARTY2}}
 
 - Legal Name of {{PARTY2}}:
 - Mailing/physical address of {{PARTY2}}:
 
-## Organizations / Entities / Components not in scope of this contract 
+## Timelines and length of deal
 
-The following organizations / entities / components are not in any way / shape / form a part of this contract. No interest / influence / partnership / joint venture etc is either implicitly or explicitly implied / offered / extended as part of this contract. 
+- {{PARTY1}} expects {{PARTY2}}  to begin sales / marketing / business development / software development / fundraising etc efforts forthwith.
+- {{PARTY1}} expects {{PARTY2}} to put in meaningful , diligent, ongoing, focused effort to generate revenue , free cash flow and profit.
+- A 180 calendar day period is hereby allotted for development and delivery efforts by {{PARTY2}} to occur from the date of execution of this contract. If at the end of 180 days any or all of the businesses aren’t delivered or well on the way to delivery, the deal is hereby terminated.
+- {{PARTY2}} is not required to provide any particular form / frequency of status updates during the period.
+- {{PARTY2}} may elect to provide status updates as they see fit.
+- {{PARTY2}} is welcome to utilize Known Element Enterprises Redmine instance if they wish to do so, The relevant project/roadmap for each organization is linked to in that organizations section.
+ {{PARTY2}} is also welcome to use none at all. It's entirely up to {{PARTY2}} management discretion.
+- {{PARTY1}} will not provide any financial resources (beyond paying for domain registration and operating the current infrastructure). Any and all expenses are to be paid for by {{PARTY2}} as they will be receiving majority revenue , free cash flow or profit shar negotiated.
 
-If any of the listed Organizations / Entities / Components  below wishes to have any relationship with any of the Organizations / Entities / Components listed in the section 
-TSYS Group Ancillary Organizations / Entities / Components in scope of this contract" a dedicated contract defining the relationship must be drawn up and approved by the members/board of both parties (as specified by the governing documents of each party). 
+## Responsibilities and context for {{PARTY1}}
 
+- {{PARTY1}} retains all operational control of hosting infrastructure (DNS/domain etc) (excluding compute/storage/network for customer data)
+- At the direction of {{PARTY1}} in their capacity as a manager of Known Element Enterprises LLC (aka KNEL)  KNEL will enter into a definitive agreement with {{PARTY2}} and {{INSCOPEENTITY}} to provide core IT/business infrastructure services on the same footing as it provides them to other TSYS group components. 
+
+See  [template terms](https://git.knownelement.com/KNEL/KNELContracts/src/branch/main/KNEL-Services-ContractTemplate-AllComponents.md) for the scope of services provided.
+
+This support does NOT include : 
+
+- compute 
+- storage 
+- bandwidth 
+- connectivity 
+
+for customer workloads or data. That will need to be provided at {{PARTY2}} full expense , ownership and responsibility.
+
+KNEL will work with {{PARTY2}} in a prompt , professional manner to facilitate secure , necessary connections and data flow between KNEL back end systems (such as API and payment gateways and other standard services and/or services otherwise negotiated) and {{PARTY2}} customer workload systems. 
+
+An exception to the provision of 
+
+- compute 
+- storage
+- bandwidth 
+- connectivity 
+
+
+is granted for :
+
+- RackRental.net (the franchise at Richelle) 
+- STL (the franchise at Richelle).
+- sol-calc.com micro service (and the TSYS front end franchise at sol-calc.com). 
+
+Any other franchises of: 
+
+- RackRental 
+- STL  
+- sol-calc front ends 
+
+must provide their own:
+
+- compute 
+- storage 
+- network 
+- (for RackRental and STL franchisees) rentable assets
+- (for non TSYS sol-calc micro service franchisees) frontend website
+
+which would be an inherent requirement in in the franchise agreement, that the franchisees have capacity/assets to rent and would have built all that out at their own expense. 
+
+KNEL will provide franchisees use of the KNEL systems as a control/support plane (for rentals) and all franchisees must use KNEL systems exclusively. 
+
+- RackRental.net Operating Company LLC will complete the development of RackRental middleware / backend (micro services). The code will remain proprietary to RackRental.net Operating Company LLC. It will be exposed as micro services for use by franchisees).
+ 
+- {{PARTY2}} , {{INSCOPEENTITY}} and Known Element Enterprises LLC will jointly complete the deployment, necessary custom development and configuration of signup, payment etc micro services for each in scope component as needed within 30 days of contract execution.
+
+
+## Responsibilities and context for {{PARTY2}}
+
+- {{PARTY2}} will retain all financial control (bank accounts/third party payment processors) of the business.
+
+- {{PARTY2}} will negotiate and execute a contract [template terms](https://git.knownelement.com/KNEL/KNELContracts/src/branch/main/KNEL-Services-ContractTemplate-AllComponents.md) for IT/business services within 5 calendar days of executing this contract with {{PARTY1}}.
+
+- {{PARTY2}} will have total control over the:
+- Business Plan
+- Funding / Fundraising 
+- Website 
+- Application 
+- Customers
+- Partners
+- Vendors (as long as they don’t provide a service provided by KNEL) (or a negotiated exception is granted)
+- Employees
+- Contractors 
+- Licensing of code 
+- Terms of service 
+- Pricing
+- Executive team 
+- Series LLC members 
+- Series LLC operating agreement (other than non override parts from the Turnkey Network Systems LLC operating agreement)
+- TSYS Group board committee for the series 
+- etc  
+
+for the following businesses:    
+
+- TeamRental.net
+- RackRental.net (non Richelle franchises) (close consultation / collaboration / code availability on any development done on the RackRental.net microservices) 
+- STL (non Richelle franchises) close consultation / collaboration / code availability on any development done on the STL micro services)
+- YourDreamNameHere
+- MerchantsOfHope
+- Redwood Springs Capital Partners (excluding the TopHat Fund) (and any/all other funds that may emerge in the future related to fundraising for Suborbital Systems , HFNOC, HFNFC).
+- Ap4ap.org 
+- sol-calc.com micro service (it will remain under its custom license) 
+
+
+- {{PARTY2}} wants to be a leader, be in the driver seat, put their brand/stamp on everything. 
+
+- {{PARTY2}} has a deep network of relevant personnel/talent , a deep contact network etc to increase the likelihood of success. 
+
+- {{PARTY2}} understands that {{PARTY1}} has no real interest in these ancillary businesses but would like to retain a minority silent stake in exchange for providing the following contributions: 
+ 
+- brand
+- KNEL back office
+- this contract
+- StartupStarterPackage
+
+
+
+## Shared Responsibilities and context for {{PARTY1}} and {{PARTY2}}
+
+- {{PARTY1}} and {{PARTY2}} will:  tbd
+- {{PARTY1}} and {{PARTY2}} will:  tbd
+- {{PARTY1}} and {{PARTY2}} will:  tbd
+- {{PARTY1}} and {{PARTY2}} will:  tbd
+
+## Organizations / Entities / Components of the TSYS Group not in scope of this contract 
+
+The following 
+
+- organizations
+- entities
+- components
+
+are not in any way / shape / form a part of this contract :
+
+**
 - Turnkey Network Systems LLC (as a whole) (certain (super) series LLC of Turnkey Network Systems LLC are in scope as called out in this contract)
 - Reachable CEO Enterprises LLC
 - HFNOC (super series) LLC and all affiliated legal entities 
@@ -32,14 +186,62 @@ TSYS Group Ancillary Organizations / Entities / Components in scope of this cont
 - RackRental.net Operating Company LLC (except as a co-party to franchise agreements)
 - RackRental.net (series) LLC (except as a co-party to franchise agreements)
 - Wyble Family Office LLC
-- Asset holding , shell, licensing and other (super) series and/or stand alone legal entities providing non-operational functions for TSYS group 
+- Asset holding , shell, licensing and other (super) series and/or stand alone legal entities providing non-operational functions for TSYS group **
+
+No: 
+
+- interest
+- influence
+- partnership
+- joint venture
+- any other relationship
+
+is either implicitly or explicitly
+
+- implied
+- offered
+- extended
+
+as part of this contract 
+
+If any of the listed 
+
+- Organizations
+- Entities
+- Components
+
+listed above wishes to have any relationship with any of the 
+
+Organizations 
+Entities 
+Components 
+
+listed in the section :
+"Organizations / Entities / Components of the TSYS Group in scope of this contract" , then a dedicated contract defining the relationship must be drawn up and approved by the members/board of both parties (as specified by the governing documents of each party). 
 
 None of the above entities have any privity created by this contract and are not in any way in scope (either by letter or spirit) of this contract.  
 
+## Organizations / Entities / Components of the TSYS Group in scope of this contract 
+**
+- Americans For A Better Network INC (AFABN) 
+- Side Door Group INC (SDG)
+- Side Door Solutions Group INC (SDSG)
 
-## TSYS Group Ancillary Organizations in scope of this contract 
+- The Campus Trading Company LLC
+- Redwood Springs Capital Partners LLC (RWSCP) (partial, see RWSCP section and referenced documents therein for details)
+- ThePeerNet.com LLC
 
-### Americans For A Better Network (AFABN) / Side Door (Solutions) Group (SDG) INC (TX non profit/intent to be 501c3/c4/(SUPER)PAC) (they are a package deal)
+- MerchantsOfHope.org LLC
+- TeamRental.net LLC
+- YourDreamNameHere.com LLC
+- RackRental.net (non Richelle franchises)
+- Starting Line Productions (non Richelle franchises)
+- sol-calc.com LLC (partial, see sol-calc section and referenced documents therein for details)
+
+- AP4AP.org LLC
+**
+
+## Americans For A Better Network (AFABN) / Side Door (Solutions) Group (SDG) INC (TX non profit/intent to be 501c3/c4/(SUPER)PAC) (they are a package deal)
 
 #### SDG/AFABN Executive Summary
 
@@ -61,8 +263,7 @@ None of the above entities have any privity created by this contract and are not
 #### SDG/AFABN Projected level of development effort (non legally binding)
 
 
-
-### Redwood Springs Capital Partners (RWSCP) LLC 
+## Redwood Springs Capital Partners (RWSCP) LLC 
 
 #### RWSCP Executive Summary
 
@@ -103,7 +304,7 @@ RWSCP is a ground up re-take on the venture capital model. It invests deeply in 
 | {{PARTY2}}     | 90%                     |
 
 
-### AP4AP.org
+## AP4AP.org
 
 #### AP4AP.org Executive Summary
 
@@ -131,7 +332,7 @@ It’s meant to grow organically. See: https://lobste.rs/about for the core insp
 | {{PARTY1}}     | 10%                     |
 | {{PARTY2}}     | 90%                     |
 
-### MerchantsOfHope.org
+## MerchantsOfHope.org
 
 #### MerchantsOfHope.org Pitch
 
@@ -159,7 +360,7 @@ It’s meant to grow organically. See: https://lobste.rs/about for the core insp
 | {{PARTY1}}     |                     |
 | {{PARTY2}}     |                         |
 
-### Sol-Calc.com
+## Sol-Calc.com
 
 #### Sol-Calc.com Pitch
 
@@ -184,7 +385,7 @@ It’s meant to grow organically. See: https://lobste.rs/about for the core insp
 | {{PARTY1}}     | 1%                      |
 | {{PARTY2}}     | 99%                     |
 
-### StartingLineProductions.com
+## StartingLineProductions.com
 
 #### StartingLineProductions.com Pitch
 
@@ -214,7 +415,7 @@ Can utilize the bookme plugin and some web hooks to KNEL services for provisioni
 | {{PARTY1}}     |                     |
 | {{PARTY2}}     |                         |
 
-### TeamRental.net
+## TeamRental.net
 
 #### TeamRental.net Pitch
 
@@ -250,7 +451,7 @@ Should be very straightforward to build out using the KNEL micro services.
 | {{PARTY1}}     |                     |
 | {{PARTY2}}     |                         |
 
-### ThePeerNet.com
+## ThePeerNet.com
 
 #### ThePeerNet.com Pitch
 
@@ -284,7 +485,7 @@ Very low.
 | {{PARTY1}}     |                         |
 | {{PARTY2}}     |                         |
 
-### YourDreamNameHere.com
+## YourDreamNameHere.com
 
 #### YourDreamNameHere.com Pitch
 
@@ -307,147 +508,3 @@ YourDreamNameHere (a business in a box to automate domain/social and back office
 | {{PARTY1}}     |                         |
 | {{PARTY2}}     |                         |
 
-## Timelines and length of deal
-
-- {{PARTY1}} expects {{PARTY2}}  to begin sales / marketing / business development / software development / fundraising etc efforts forthwith.
-- {{PARTY1}} expects {{PARTY2}} to put in meaningful effort to generate revenue and profit.
-- A 180 calendar day period is hereby alloted for development and delivery efforts by {{PARTY2}} to occur from the date of execution of this contract. If at the end of 180 days any or all of the businesses aren’t delivered or well on the way to delivery, the deal is hereby terminated.
-- {{PARTY2}} is not required to provide any particular form / frequency of status updates during the period.
-- {{PARTY2}} may elect to provide status updates as they see fit.
-- {{PARTY2}} is welcome to utilize Known Element Enterprises Redmine instance if they wish todo so, 
- {{PARTY2}} is also welcome to use none at all. It's entirely up to {{PARTY2}} management discretion.
-- {{PARTY1}} will not provide any financial resources (beyond paying for domain registration and operating the current infrastructure). Any and all expenses will paid for by {{PARTY2}} as they will be receiving majority revenue or profit share.
-
-## Responsibilities and context for {{PARTY1}}
-
-- {{PARTY1}} retains all operational control of hosting infrastructure (DNS/domain etc) (excluding compute/storage/network for customer data)
-- Known Element Enterprises LLC (aka KNEL) (in its capacity as the Turnkey Network Systems LLC (TSYS group) management company) (see <https://community.turnsys.com/t/tsys-group-taxonomy/64> for an overview of TSYS group) will provide core IT/business infrastructure services on the same footing as it provides them to other TSYS group businesses. 
-
-This includes: 
-
-- marketing campaign service (Mautic)
-- Frontend (marketing/sales) website hosting (Wordpress or Grav or both)
-- Reasonable (to be determined / negotiated) business specific application runtime capacity on the KNEL coolify bizapp instance. 
-- business intelligence (Superset)
-- ERP instance (Dolibarr)
-- web analytics (Matomo)
-- backups (of KNEL microservices and wordpress/grav site and bizapp application code/data (stored in KNEL microservice systems)
-- up/down and lightweight application monitoring (Uptime Kuma)
-- Survey (LImeSurvey)
-- GIT (Gitea)
-- Finance planning (Firefly)
-- Billing (Killbill)
-- Payment Gateway (Hyperswitch)
-- Project Management (Redmine)
-- Customer Support (Freescout)
-- API Gateway (TBD)
-- E-signature 
-- Serverless runtime (TBD)
-- Email (with a total of 1gb quota aggregate across all mailboxes) (for non customer , corporate use only).
-- Nextcloud (with a total of 5gb quota across all users) (for non customer, corporate use only).
-- Various other business specific back office or middleware functions as negotiated between KNEL and {{PARTY2}}.
-
-This support does NOT include : 
-
-- compute 
-- storage 
-- bandwidth 
-- connectivity 
-
-for customer workloads or data. That will need to be provided at {{PARTY2}} full expense , ownership and responsibility.
-
-KNEL will work with {{PARTY2}} in a prompt , professional manner to facilitate secure , necessary connections and data flow between KNEL back end systems (such as API and payment gateways and other functions listed above or otherwise negotiated) and {{PARTY2}} customer workload systems. 
-
-An exception to the provision of 
-
-- compute 
-- storage
-- bandwidth 
-- connectivity 
-
-
-is granted for :
-
-- RackRental.net (the franchise at Richelle) 
-- STL (the franchise at Richelle).
-- sol-calc.com micro service (and the TSYS front end franchise at sol-calc.com). 
-
-Any other franchises of: 
-
-- RackRental 
-- STL  
-- sol-calc front ends 
-
-must provide their own:
-
-- compute 
-- storage 
-- network 
-- (for RackRental and STL franchisees) rentable assets
-- (for sol-calc micro service franchisees) frontend website
-
-which would be an inherent requirement in in the franchise agreement, that the franchisees have capacity/assets to rent and would have built all that out at their own expense. 
-
-KNEL will provide franchisees use of the KNEL systems as a control/support plane (for rentals) and all franchisees must use KNEL systems exclusively. 
-
-
-- RackRental.net Operating Company LLC will complete the development of RackRental middleware / backend (micro services). The code will remain proprietary to RackRental.net Operating Company LLC. It will be exposed as micro services for use by franchisees).
- 
-- {{PARTY2}} and Known Element Enteprises LLC will jointly complete the deployment, necessary custom development and configuration of signup, payment etc micro services for each ancillary business as needed.
-
-
-## Responsibilities and context for {{PARTY2}}
-
-- {{PARTY2}} will retain all financial control (bank accounts/third party payment processors) of the business. 
-
-- {{PARTY2}} will have total control over the:
-- Business Plan
-- Funding / Fundraising 
-- Website 
-- Application 
-- Customers
-- Partners
-- Vendors (as long as they don’t provide a service provided by KNEL) (or a negotiated exception is granted)
-- Employees
-- Contractors 
-- Licensing of code 
-- Terms of service 
-- Pricing
-- Executive team 
-- Series LLC members 
-- Series LLC operating agreement (other than non override parts from the Turnkey Network Systems LLC operating agreement)
-- TSYS Group board committee for the series 
-- etc  
-
-for the following businesses:    
-
-- TeamRental
-- RackRental.net (non Richelle franchises) (close consultation / collaboration / code availability on any development done on the RackRental.net micro services) 
-- STL (non Richelle franchises) close consultation / collaboration / code availability on any development done on the STL micro services)
-- YourDreamNameHere
-- MerchantsOfHope
-- Redwood Springs Capital Partners (excluding the TopHat Fund) (and any/all other funds that may emerge in the future related to fundraising for Suborbital Systems , HFNOC, HFNFC).
-- Ap4ap.org 
-- sol-calc.com micro service (it will remain under its custom license) 
-
-
-- {{PARTY2}} wants to be a leader, be in the driver seat, put their brand/stamp on everything. 
-
-- {{PARTY2}} has a deep network of personnel/talent , a deep contact network etc to increase the likelihood of success. 
-
-- {{PARTY2}} understands that {{PARTY1}} has no real interest in these ancillary businesses but would like to retain a minority silent stake in exchange for providing the following contributions: 
- 
-- brand
-- KNEL back office
-- this contract
-- StartupStarterPackage
-
-
-
-## Shared Responsibilities and context for {{PARTY1}} and {{PARTY2}}
-
-- {{PARTY1}} and {{PARTY2}} will:  tbd
-- {{PARTY1}} and {{PARTY2}} will:  tbd
-- {{PARTY1}} and {{PARTY2}} will:  tbd
-- {{PARTY1}} and {{PARTY2}} will:  tbd
-- {{PARTY1}} and {{PARTY2}} will: jointly develop the detailed business plan using the [StartupStarterPackage framework](https://git.knownelement.com/RWSCP/StartupStarterPackage).
