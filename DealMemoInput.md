@@ -4,8 +4,7 @@
 
 Party 1:
 
-{{PARTY1}} (jointly with Known Element Enterprises LLC) (solely in the capacity of back office functions of the management company (series) for Turnkey Network Systems LLC) (with liability strictly scoped and limited by this contract)
-
+{{PARTY1}} 
 - Full Legal Name of {{PARTY1}}:
 - Mailing/physical address of {{PARTY1}}:
 
@@ -315,13 +314,13 @@ YourDreamNameHere (a business in a box to automate domain/social and back office
 - A 180 calendar day period is hereby alloted for development and delivery efforts by {{PARTY2}} to occur from the date of execution of this contract. If at the end of 180 days any or all of the businesses aren’t delivered or well on the way to delivery, the deal is hereby terminated.
 - {{PARTY2}} is not required to provide any particular form / frequency of status updates during the period.
 - {{PARTY2}} may elect to provide status updates as they see fit.
-- {{PARTY2}} is welcome to utilize Known Element Enterprises Redmine instance if they wish todo so, or any other project/tasks/issue management system they may wish to utilize.
+- {{PARTY2}} is welcome to utilize Known Element Enterprises Redmine instance if they wish todo so, 
  {{PARTY2}} is also welcome to use none at all. It's entirely up to {{PARTY2}} management discretion.
 - {{PARTY1}} will not provide any financial resources (beyond paying for domain registration and operating the current infrastructure). Any and all expenses will paid for by {{PARTY2}} as they will be receiving majority revenue or profit share.
 
 ## Responsibilities and context for {{PARTY1}}
 
-- {{PARTY1}} retains all infrastructure control (DNS/hosting etc)
+- {{PARTY1}} retains all operational control of hosting infrastructure (DNS/domain etc) (excluding compute/storage/network for customer data)
 - Known Element Enterprises LLC (aka KNEL) (in its capacity as the Turnkey Network Systems LLC (TSYS group) management company) (see <https://community.turnsys.com/t/tsys-group-taxonomy/64> for an overview of TSYS group) will provide core IT/business infrastructure services on the same footing as it provides them to other TSYS group businesses. 
 
 This includes: 
