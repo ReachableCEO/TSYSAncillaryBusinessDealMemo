@@ -1,28 +1,36 @@
-# Joint Venture Contract (draft) (non reviewed or board approved) between {{PARTY1}} and {{PARTY2}} for one or more TSYS Group In Scope Components
+# Joint Venture Contract (final draft of v1.0)  between {{PARTY1}} and {{PARTY2}} 
 
 ## Introduction 
 
-- This contract is meant to be a public document and serve as a template showing the terms and conditions of a joint venture between two parties for the successful development of a TSYS Group In Scope Component.
+- This contract is a public document showing the full terms and conditions of a joint venture between two parties for the successful development of a TSYS Group In Scope Component.
 
-- This contract content is under the AGPL v3.0 only (excluding the party 2 details which will remain private and confidential).. Party 2 may elect to have the forked repository be public/read only as they wish.  Party 1 hereby agrees to that option automatically upon Party 2 election todo so.
+- This contract is licensed under the AGPL v3.0 only, with a small amount of proprietary components.. This repository is meant to be forked to a private, proprietary / confidential repository for execution with the only permitted proprietary alterations being:
 
-- This repository is meant to be forked to a private, proprietary / confidential repository for execution (with the only permitted proprietary alterations being the party details, entity in scope, execution date). If any other modifications are needed, they must be done in this repository and placed under AGPL v3.0 only. This allows for transparency , pre-deal due-diligence and confidentiality of the involved development party.
+	- PARTY2 name/contact details
+	- PARTY1 contact details
+	- Entity in scope
+	- Execution date
+	- distribution percentage details
+	
+- If any other modifications to this contract are needed (other than those listed above), they must be done in this repository and placed under AGPL v3.0 only. This allows for transparency, pre-deal due-diligence and confidentiality of the involved development party..
 
-- Party 1 formal legal name is TBD but prior to disclosure can be considered as a fund/vehicle of Redwood Springs Capital Partners LLC , aka FUNDCO as a placeholder. Details remain to be worked out around legal / administrative / tax implications etc for the fund/vehicle being a joint development fund for all ventures or a fund per venture etc.Those details will have no material effect on the letter or spirit of this contract. They are the dotting of I and crossing of T inherent in creating a venture capital firm and it's funds/vehicles. The funds/vehicles will be purely for the purposes of asset segregation, liability scoping, administrative matters, licensing/ownership of IP, taxes, accounting and related  purposes. They will make whatever investment in the component and then receive any returns or other outcomes that may occur. They are purely single purpose shell entities. 
+- Party 2 may elect to have the forked repository be public/read only as they wish.  Party 1 hereby agrees to that option automatically upon Party 2 election todo so, as long as PARTY1 contact details are redacted..
 
-- Party 1 name/names (the fund or funds) related to each component will be listed herein when finalized (by February 1st 2025). The fund name will serve as a link to the AGPL v3.0 licensed GIT repository with the fund agreement.
+- Party 1 formal legal name is TBD but prior to inclusion below, it can be considered as a fund/vehicle of Redwood Springs Capital Partners LLC , aka FUNDCO as a placeholder. Details remain to be worked out around legal / administrative / tax implications etc for the fund/vehicle (for example if it will be a joint development fund for all ventures or a fund per venture etc) Those details will have no material effect on the letter or spirit of this contract. They are the dotting of I and crossing of T inherent in creating a venture capital firm and it's funds/vehicles. The funds/vehicles will be purely for the purposes of asset segregation, liability scoping, administrative matters, licensing/ownership of IP, taxes, accounting and related  purposes. They will make whatever investment in the component and then receive any returns or other outcomes that may occur. They are purely single purpose shell entities.
 
-- Party 2 can be any "person" (legal entity or individual) who can legally enter into a contract with a US entity (ie not subject to sanctions).
+- Party 1 name/names (the fund or funds) related to each component will be listed herein when finalized (by February 1st 2025). The fund name will serve as a link to the AGPL v3.0 licensed GIT repository with the fund/firm agreements.
 
-- This contract is governed solely by Texas law. 
+- Party 2 can be any "person" (legal entity or individual) who can legally enter into a contract with a US entity (ie not subject to sanctions or otherwise prohibted by any/all applicable law from entering into a contract with a US entity).
 
-- All disputes are hereby auto resolved in the favor of PARTY1.
+- This contract is governed solely and entirely by Texas law. 
 
-- All rights to trial by jury, arbitration, relief of any kind are hereby waved by {{PARTY2}} (except in cases of clear civil or criminal acts by PARTY1 officers) (gross negligence) etc as is standard exception in the law..
+- All disputes are hereby auto resolved in the favor of {{PARTY1}}.
 
-- {{PARTY2}} hereby certifies they have conducted extensive due diligence on {{PARTY1}} and the {{INSCOPEENTITY}} including any public material and private material that may have been provided by the officers of {{PARTY1}} and/or the officers of the {{INSCOPEENTITY}} and are entering into this agreement having fully read and understood it.
+- All rights to trial by jury, arbitration, relief of any kind are hereby waved by {{PARTY2}} (except in cases of clear civil or criminal acts by {{PARTY1}} officers) (gross negligence) etc as is standard exception in the law..
 
-- {{PARTY2}} may only enter into contract for a single in scope component listed herein as defined in the section "Parties to the contract" sub section "Entity that {{PARTY2}} is agreeing to develop"..
+- {{PARTY2}} hereby certifies they have conducted extensive due diligence on {{PARTY1}} and it's officers, and the {{INSCOPEENTITY}} including any public material and private material that may have been provided by the officers of {{PARTY1}} and/or the officers of the {{INSCOPEENTITY}} and are entering into this agreement having fully read and understood it.
+
+- {{PARTY2}} may only enter into contract for a single in scope component (the non profits and RWSCP entity collections are considered as a single component) listed herein as defined in the section "Parties to the contract" sub section "Entity that {{PARTY2}} is agreeing to develop"..
 
 
 ## Parties to the contract
@@ -31,7 +39,7 @@
 
 {{PARTY1}} 
 - Full Legal Name of {{PARTY1}}:
-- Mailing/physical address of {{PARTY1}}:
+- Contact Details for {{PARTY1}}:
 
 ### Entity that {{PARTY2}} is agreeing to develop :
 {{INSCOPEENTITY}}
@@ -40,26 +48,41 @@
 
 {{PARTY2}}
 
-- Legal Name of {{PARTY2}}:
-- Mailing/physical address of {{PARTY2}}:
+- Full Legal Name of {{PARTY2}}:
+- Contact Details for {{PARTY2}}:
 
 ## Timelines and length of deal
 
-- {{PARTY1}} expects {{PARTY2}}  to begin sales / marketing / business development / software development / fundraising etc efforts forthwith.
-- {{PARTY1}} expects {{PARTY2}} to put in meaningful , diligent, ongoing, focused effort to generate revenue , free cash flow and profit.
-- A 180 calendar day period is hereby allotted for development and delivery efforts by {{PARTY2}} to occur from the date of execution of this contract. If at the end of 180 days any or all of the businesses aren’t delivered or well on the way to delivery, the deal is hereby terminated.
+- {{PARTY1}} expects {{PARTY2}}  to promptly begin conducting business operations such as:
+	- sales
+	- marketing
+	- business development
+	- product management
+	- software development
+	- fundraising .
+	
+- {{PARTY1}} expects {{PARTY2}} to put in
+	- meaningful
+	- diligent,
+	- ongoing
+	- focused
+ efforts to generate revenue , free cash flow and profit.
+ 
+- A 180 calendar day period is hereby allotted for development and delivery efforts by {{PARTY2}} to occur from the date of execution of this contract.
+
+- If at the end of 180 calendar days the {{INSCOPEENTITY}} hasn't materially progressed, delivered free cash flow/revenue/profit results, otherwise delivered on discussed metrics or not well on the way to results delivery, the deal is hereby terminated and {{PARTY1}} will seize c
 - {{PARTY2}} is not required to provide any particular form / frequency of status updates during the period.
 - {{PARTY2}} may elect to provide status updates as they see fit.
 - {{PARTY2}} is welcome to utilize Known Element Enterprises Redmine instance if they wish to do so, The relevant project/roadmap for each organization is linked to in that organizations section.
  {{PARTY2}} is also welcome to use none at all. It's entirely up to {{PARTY2}} management discretion.
 - {{PARTY1}} will not provide any financial resources (beyond paying for domain registration and operating the current infrastructure). Any and all expenses are to be paid for by {{PARTY2}} as they will be receiving majority revenue , free cash flow or profit shar negotiated.
 
-## Responsibilities and context for {{PARTY1}}
+## Responsibilities and context of  {{PARTY1}}
 
 - {{PARTY1}} retains all operational control of hosting infrastructure (DNS/domain etc) (excluding compute/storage/network for customer data)
-- At the direction of {{PARTY1}} in their capacity as a manager of Known Element Enterprises LLC (aka KNEL)  KNEL will enter into a definitive agreement with {{PARTY2}} and {{INSCOPEENTITY}} to provide core IT/business infrastructure services on the same footing as it provides them to other TSYS group components. 
+- At the direction of {{PARTY1}} in their capacity as a manager of Known Element Enterprises LLC (aka KNEL)  KNEL will enter into a definitive agreement with {{PARTY2}} and {{INSCOPEENTITY}} within five calendar days of execution of this contract to provide core IT/business infrastructure services on the same footing as it provides them to other TSYS group components. 
 
-See  [template terms](https://git.knownelement.com/KNEL/KNELContracts/src/branch/main/KNEL-Services-ContractTemplate-AllComponents.md) for the scope of services provided.
+See  [template terms](https://git.knownelement.com/KNEL/KNELContracts/src/branch/main/KNEL-Services-ContractTemplate-AllComponents.md) for details on the scope of services provided.
 
 This support does NOT include : 
 
@@ -70,7 +93,7 @@ This support does NOT include :
 
 for customer workloads or data. That will need to be provided at {{PARTY2}} full expense , ownership and responsibility.
 
-KNEL will work with {{PARTY2}} in a prompt , professional manner to facilitate secure , necessary connections and data flow between KNEL back end systems (such as API and payment gateways and other standard services and/or services otherwise negotiated) and {{PARTY2}} customer workload systems. 
+KNEL will work with {{PARTY2}} on an on-goinb basis in a prompt , professional manner to facilitate secure , necessary connections and data flow between KNEL back end systems (such as API and payment gateways and other standard services and/or services otherwise negotiated) and {{PARTY2}} customer workload systems. 
 
 An exception to the provision of 
 
@@ -79,8 +102,7 @@ An exception to the provision of
 - bandwidth 
 - connectivity 
 
-
-is granted for :
+is hereby granted for :
 
 - RackRental.net (the franchise at Richelle) 
 - STL (the franchise at Richelle).
@@ -98,7 +120,7 @@ must provide their own:
 - storage 
 - network 
 - (for RackRental and STL franchisees) rentable assets
-- (for non TSYS sol-calc micro service franchisees) frontend website
+- (for non TSYS sol-calc micro service franchisees) front-end website
 
 which would be an inherent requirement in in the franchise agreement, that the franchisees have capacity/assets to rent and would have built all that out at their own expense. 
 
@@ -106,10 +128,10 @@ KNEL will provide franchisees use of the KNEL systems as a control/support plane
 
 - RackRental.net Operating Company LLC will complete the development of RackRental middleware / backend (micro services). The code will remain proprietary to RackRental.net Operating Company LLC. It will be exposed as micro services for use by franchisees).
  
-- {{PARTY2}} , {{INSCOPEENTITY}} and Known Element Enterprises LLC will jointly complete the deployment, necessary custom development and configuration of signup, payment etc micro services for each in scope component as needed within 30 days of contract execution.
+- {{PARTY2}} , {{INSCOPEENTITY}} and Known Element Enterprises LLC will jointly complete the deployment, necessary custom development and configuration of signup, payment etc micro services as needed within 30 days of contract execution.
 
 
-## Responsibilities and context for {{PARTY2}}
+## Responsibilities and context of  {{PARTY2}}
 
 - {{PARTY2}} will retain all financial control (bank accounts/third party payment processors) of the business.
 
@@ -158,13 +180,6 @@ for the following businesses:
 - StartupStarterPackage
 
 
-
-## Shared Responsibilities and context for {{PARTY1}} and {{PARTY2}}
-
-- {{PARTY1}} and {{PARTY2}} will:  tbd
-- {{PARTY1}} and {{PARTY2}} will:  tbd
-- {{PARTY1}} and {{PARTY2}} will:  tbd
-- {{PARTY1}} and {{PARTY2}} will:  tbd
 
 ## Organizations / Entities / Components of the TSYS Group not in scope of this contract 
 
@@ -241,149 +256,6 @@ None of the above entities have any privity created by this contract and are not
 - AP4AP.org LLC
 **
 
-## Americans For A Better Network (AFABN) / Side Door (Solutions) Group (SDG) INC (TX non profit/intent to be 501c3/c4/(SUPER)PAC) (they are a package deal)
-
-#### SDG/AFABN Executive Summary
-
-- (Super)PAC/501c4 as a service (SideDoorGroup)
-- Education 501c3 (AFABN)
-- Call to action/activism as a service (Side Door Solutions Group)
-
-#### SDG/AFABN Details
-
-- Please see the [SDG WIP Biz/Ops/Product plan](https://git.knownelement.com/SideDoorGroup/SDG-bizopprodplan) 
-- Please see the [AFABN WIP Biz/Ops/Product plan ](https://git.knownelement.com/AFABN/AFABN-bizopprodplan)
-
-#### SDG/AFABN Current Status of the organization
-
-- Entities created
-- Board committees established
-- Charters adopted 
-
-#### SDG/AFABN Projected level of development effort (non legally binding)
-
-
-## Redwood Springs Capital Partners (RWSCP) LLC 
-
-#### RWSCP Executive Summary
-
-RWSCP is a ground up re-take on the venture capital model. It invests deeply in :
-
-	- hard/deep tech (b2b, b2c, b2g) (partnering deeply with STL)
-	- Gov tech (b2g) Usually in the hard/deep tech space but not exclusively) (partnering deeply with MerchantsOfHope)
-	
-	- It is aggresively targeting the following distribution of outcomes:
-		- 90% full success rate of 20x or more return 
-		- 5% partial success rate of 5-10x or more return 
-		- 5% rate of merger/aquisition/acquohire etc (soft landings) (sometimes the product or service is fantastic but the execution is problematic or culture has rotted)
-
-		We do this through:
-		- having a stadardized pitch package available online and licensed under AGPLv3 (in hopes other firms adopt our value creating/capital growth ways) 
-		- an extremely proprietary, quantative and qualatative data driven pitch scoring and evaluation system. 
-		
-				
-		
-
-#### RWSCP Details 
-
-- Please see [RWSCP WIP Biz/Ops/Product plan](https://git.knownelement.com/RWSCP/RWSCP-bizopprodplan) 
-
-#### RWSCP Current Status of the business
-
-- Management company is close to being fully formed
-- GP is being stood up 
-- Funds are in the branding/design/formation phase,
-- LPs are being actively courted.
-
-#### RWSCP Projected Level of development effort  (non legally binding)
-#### RWSCP Opening Offer of Distributions 
-
-| Contract Party | Distribution Percentage |
-|----------------|-------------------------|
-| {{PARTY1}}     | 10%                     |
-| {{PARTY2}}     | 90%                     |
-
-
-## AP4AP.org
-
-#### AP4AP.org Executive Summary
-
-Ap4ap is a ground up take on person to person connection. 
-
-- Personal friendship connection 
-- Personal romantic connection 
-- Co-founder connection 
-- Marketplace for products and services 
-
-It’s meant to grow organically. See: https://lobste.rs/about for the core inspiration of how we want Ap4ap to grow. We are putting our own twist on it with in person connection required and having meetups and offline activities be at the core.  
-
- A#P4AP.org Details
-
-  - Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/Ap4Ap.org/Ap4Ap.org-bizopprodplan)
-
-#### AP4AP.org Current status of the business
-
-#### AP4AP.org Level of development effort
-
-#### AP4AP.org Distributions
-
-| Contract Party | Distribution Percentage |
-|----------------|-------------------------|
-| {{PARTY1}}     | 10%                     |
-| {{PARTY2}}     | 90%                     |
-
-## MerchantsOfHope.org
-
-#### MerchantsOfHope.org Pitch
-
-- MerchantsOfHope.org Executive Summary
-
-- Idea is to have a freelance platform that isn’t horrible like upwork etc has become) (would cross/up sell TeamRental/YDN).
-- Joint venture with DevWranglers
-
-- MerchantsOfHope.org Details
-
-  - Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/MerchantsOfHope.org/MerchantsOfHope.org-bizopprodplan)
-
-#### MerchantsOfHope.org Current status of the business
-
-- Main site: Nothing more than a domain/out of box configured WordPress install.
-- MSP system: Deployed it-flow.
-- Agency admin system: In process of deploying ... .
-
-#### MerchantsOfHope.org Level of development effort
-
-#### MerchantsOfHope.org Distribution proposal
-
-| Contract Party | Distribution Percentage |
-| -------------- | ----------------------- |
-| {{PARTY1}}     |                     |
-| {{PARTY2}}     |                         |
-
-## Sol-Calc.com
-
-#### Sol-Calc.com Pitch
-
-- Sol-Calc.com Executive Summary
-
-  - For sol-calc, the core micro service is GPLv3. You would have complete control over the branding / pricing etc of the SAAS front end (which is how most people would use it. So few would self host and they wouldn’t have paid anyway). This allows for the community to provide feedback on the algorithm. Could someone take it and launch a competing service ? Sure. Will they? Doubtful. Branding is a thing.
-
-  - sol-calc.com (solar calculator I’ve been building as I am doing a custom design / ground mount of 5kw of panels. Very early microservice development underway.
-
-- Sol-Calc.com Details
-
-  - Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/sol-calc.com/sol-calc.com-bizopprodplan)
-
-#### Sol-Calc.com Current status of the business
-
-#### Sol-Calc.com Level of development effort
-
-#### Sol-Calc.com Distributions
-
-| Contract Party | Distribution Percentage |
-|----------------|-------------------------|
-| {{PARTY1}}     | 1%                      |
-| {{PARTY2}}     | 99%                     |
 
 ## StartingLineProductions.com
 
