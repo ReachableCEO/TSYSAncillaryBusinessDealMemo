@@ -19,3 +19,6 @@
 [TeamRental](TeamRental.md)
 
 # Rental of equipment hours
+
+[RackRental](RackRental.md)
+[Starting Line Productions](STL.md)
