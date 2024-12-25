@@ -4,7 +4,7 @@
 
 Party 1:
 
-{{PARTY1}} (jointly with Known Element Enterprises LLC)
+{{PARTY1}} (jointly with Known Element Enterprises LLC) (solely in the capacity of back office functions of the management company (series) for Turnkey Network Systems LLC) (with liability strictly scoped and limited by this contract)
 
 - Full Legal Name of {{PARTY1}}:
 - Mailing/physical address of {{PARTY1}}:
@@ -17,23 +17,30 @@ Party 2:
 - Legal Name of {{PARTY2}}:
 - Mailing/physical address of {{PARTY2}}:
 
-## Organizations not in scope in this contract 
+## Organizations / Entities / Components not in scope of this contract 
 
-- Turnkey Network Systems LLC (as a whole) (certain (super) series LLCs of Turnkey Network Systems LLC are in scope as called out in this contract)
-- ReachableCEO Enterprises LLC
+The following organizations / entities / components are not in any way / shape / form a part of this contract. No interest / influence / partnership / joint venture etc is either implicitly or explicitly implied / offered / extended as part of this contract. 
+
+If any of the listed Organizations / Entities / Components  below wishes to have any relationship with any of the Organizations / Entities / Components listed in the section 
+TSYS Group Ancillary Organizations / Entities / Components in scope of this contract" a dedicated contract defining the relationship must be drawn up and approved by the members/board of both parties (as specified by the governing documents of each party). 
+
+- Turnkey Network Systems LLC (as a whole) (certain (super) series LLC of Turnkey Network Systems LLC are in scope as called out in this contract)
+- Reachable CEO Enterprises LLC
 - HFNOC (super series) LLC and all affiliated legal entities 
 - HFNFC (super series) and all affiliated legal entities 
 - Suborbital Systems Development Company LLC 
 - Suborbital Systems (series) LLC
 - RackRental.net Operating Company LLC (except as a co-party to franchise agreements)
 - RackRental.net (series) LLC (except as a co-party to franchise agreements)
+- Wyble Family Office LLC
+- Asset holding , shell, licensing and other (super) series and/or stand alone legal entities providing non-operational functions for TSYS group 
 
 None of the above entities have any privity created by this contract and are not in any way in scope (either by letter or spirit) of this contract.  
 
 
 ## TSYS Group Ancillary Organizations in scope of this contract 
 
-### Americans For A Better Network (AFABN) / Side Door (Solutions) Group (SDG) INC (TX non profit/intent to be 501c3/c4/(SUPER)PAC)
+### Americans For A Better Network (AFABN) / Side Door (Solutions) Group (SDG) INC (TX non profit/intent to be 501c3/c4/(SUPER)PAC) (they are a package deal)
 
 #### SDG/AFABN Executive Summary
 
