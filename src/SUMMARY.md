@@ -7,12 +7,7 @@
 
 # Documents incorporated into this contract by reference 
 
-[Turnkey Network Systems LLC Operating Agreement]
-[Rackrental.net Operating Company LLC Operating Agreement]
-[Suborbital Systems Development Company LLC Operating Agreement]
-[Americans For A Better Network INC Charter]
-[Side Door Group INC Charter]
-[Side Door Solutions Group INC Charter]
+[TSYS Group Component Charters]
 [TSYS Group Handbook]
 [Starting Line Productions Shop Guide]
 
