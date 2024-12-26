@@ -22,3 +22,8 @@
 
 [RackRental](RackRental.md)
 [Starting Line Productions](STL.md)
+
+# Free Libre Open Software Projects 
+
+[EzEDA.org](FLO-EzEDA.md)
+[EzPodStack.org](FLO-EzPodStack.md)
