@@ -5,4 +5,6 @@
 
 ## EzEDA.org Details
 
+- [EzEDA.org](https://git.knownelement.com/EzEDA.org/ezeda-bizoprodplan)
+
 

@@ -4,7 +4,7 @@
 
 The Campus Trading Company will handle all treasury operations for TSYS Group.
 
-## The Campus Trading Company Business, Operations, Product Plan
+## The Campus Trading Company Details
 
 - Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/TheCampusTradingCo/TheCampusTradingCo-bizopprodplan)
 

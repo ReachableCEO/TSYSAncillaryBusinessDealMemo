@@ -20,7 +20,7 @@ RWSCP is a ground up re-take on the venture capital model. It invests deeply in 
 				
 		
 
-## RWSCP Business, Operations, Product Plan
+## RWSCP Details
 
 - Please see [RWSCP WIP Biz/Ops/Product plan](https://git.knownelement.com/RWSCP/RWSCP-bizopprodplan) 
 

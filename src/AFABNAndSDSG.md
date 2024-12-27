@@ -1,4 +1,4 @@
-# Americans For A Better Network (AFABN) / Side Door (Solutions) Group (SD(S)G) INC 
+# Americans For A Better Network (AFABN) / Side Door (Solutions) Group (SD(S)G)
 
 # AFABN/SD(S)G Executive Summary
 
@@ -7,7 +7,7 @@
 - Education 501c3 (AFABN)
 - Call to action/activism as a service (Side Door Solutions Group)
 
-# AFABN/SD(S)G Business, Operations, Product Plan
+# AFABN/SD(S)G Details
 
 - Please see the [SDG WIP Biz/Ops/Product plan](https://git.knownelement.com/SideDoorGroup/SDG-bizopprodplan) 
 - Please see the [AFABN WIP Biz/Ops/Product plan](https://git.knownelement.com/AFABN/AFABN-bizopprodplan)

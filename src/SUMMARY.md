@@ -19,6 +19,15 @@
 - [TheCampusTradingCompany](./TheCampusTradingCo.md)
 - [Redwood Springs Capital Partners](./RWSCP.md)
 
+# For Profit - R&D of Balloons 
+
+- [Suborbital Systems](./SuborbitalSystems.md)
+
+# For Profit - Operations of Balloons and networks
+
+- [High Flight Networks Operating Company](./HFNOC.md)
+- [High Flight Networks Finance Company](./HFNFC.md)
+
 # For Profit - Rental of time
 
 - [MerchantsOfHope](MerchantsOfHope.md)

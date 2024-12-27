@@ -1,4 +1,4 @@
-# Rack Rental (non TSYS Group HQ franchise) Initially Proposed Distributions
+# Rack Rental (non TSYS Group HQ franchise)
 
 ## RackRental.net (non TSYS Group HQ franchises) Executive Summary 
 
