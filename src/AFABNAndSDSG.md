@@ -1,8 +1,8 @@
-
-# Americans For A Better Network (AFABN) / Side Door (Solutions) Group (SD(S)G) INC (TX non profit/intent to be 501c3/c4/(SUPER)PAC) (they are a package deal)
+# Americans For A Better Network (AFABN) / Side Door (Solutions) Group (SD(S)G) INC 
 
 # AFABN/SD(S)G Executive Summary
 
+- TX non profit corporations with intent to become 501c3/c4/(SUPER)PAC) (they are a package deal)
 - (Super)PAC/501c4 as a service (SideDoorGroup)
 - Education 501c3 (AFABN)
 - Call to action/activism as a service (Side Door Solutions Group)

@@ -50,3 +50,10 @@ KNEL will provide franchisees use of the KNEL systems as a control/support plane
 - RackRental.net Operating Company LLC will complete the development of RackRental middleware / backend (micro services). The code will remain proprietary to RackRental.net Operating Company LLC. The runtime components resulting from the code will be exposed as consumable micro services for use by franchisees.
  
 - {{PARTY2}} , {{INSCOPEENTITY}} , {{PARTY1}} (in it's capacity as a manager of Known Element Enterprises LLC) will jointly complete the deployment, necessary custom development, configuration etc of signup, payment and other Known Element Enterprises micro services as needed within 30 days of this contract execution.
+
+- {{PARTY1}} is providing extensive support and value via
+
+	- KNEL Micro services
+	- Brands
+	- Startup Starter Package
+	- Advisory office hours to the group components as needed 
