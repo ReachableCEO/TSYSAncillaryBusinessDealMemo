@@ -9,11 +9,12 @@ The following
 are not in any way / shape / form a part of this contract :
 
 - Turnkey Network Systems LLC (as a whole)
+- Axios Heart Studios (series) LLC
 - Known Element Enterprises (series) LLC
 - Wyble Family Office (series) LLC
-- RackRental.net (series) LLC (TSYS Group HQ Rackrental.net Franchise and has 100% distribution under it's franchise contract with RackRental.net Operating Company LLC)
-- Starting Line Productions (series) LLC (TSYS Group HQ StartingLineProductions.com Franchise and has 100% distribution under it's franchise contract with RackRental.net Operating Company LLC)
-- Asset holding,shell,licensing and other (super) series and/or stand alone legal entities (aka TDCMP entities) providing non-operational functions for TSYS group 
+- RackRental.net (series) LLC (TSYS Group HQ Rackrental.net Franchise) (has a 100% distribution agreement under its franchise contract with RackRental.net Operating Company LLC)
+- Starting Line Productions (series) LLC (TSYS Group HQ StartingLineProductions.com Franchise) (has a 100% distribution agreement under its franchise contract with RackRental.net Operating Company LLC)
+- Asset holding,shell,licensing and other (super)(cell) or regular series and/or stand alone legal entities (aka TDCMP entities) providing non-operational functions for TSYS group and/or TSYS group components 
 - Reachable CEO Enterprises (series) LLC
 
 No: 

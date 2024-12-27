@@ -2,7 +2,7 @@
 
 - This contract is a public document showing the full terms and conditions of a proposed joint venture between two parties for the successful development of a TSYS Group Component.
 
-- This contract is licensed under the AGPL v3.0 only, with a small amount of proprietary components.. This repository is meant to be forked to a private, proprietary / confidential repository for execution with the only permitted proprietary alterations being:
+- This contract is licensed under the AGPL v3.0 only, with a small amount of proprietary components. This repository is meant to be forked to a private, proprietary / confidential repository for execution with the only permitted proprietary alterations being:
 
 	- PARTY2 name/contact details
 	- PARTY1 contact details
