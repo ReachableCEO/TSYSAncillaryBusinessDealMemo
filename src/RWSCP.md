@@ -20,18 +20,9 @@ RWSCP is a ground up re-take on the venture capital model. It invests deeply in 
 				
 		
 
-## RWSCP Due-Diligence Details 
+## RWSCP Business, Operations, Product Plan
 
 - Please see [RWSCP WIP Biz/Ops/Product plan](https://git.knownelement.com/RWSCP/RWSCP-bizopprodplan) 
-
-## RWSCP Current Status of the business
-
-- Management company is close to being fully formed
-- GP is being stood up 
-- Funds are in the branding/design/formation phase,
-- LPs are being actively courted.
-
-## RWSCP Projected Level of development effort  (non legally binding)
 
 ## RWSCP Opening Offer of Distributions 
 

@@ -1,1 +1,1 @@
-# Rack Rental (non HQ franchise)
+# Rack Rental (non HQ franchise) Initially Proposed Distributions

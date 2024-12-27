@@ -13,12 +13,10 @@
 
 A podcast network as a service. Also the media/broadcast division of TSYS Group.
 
-#### ThePeerNet.com Current status of the business
+#### ThePeerNet.com Business, Operations, Product Plan
 
 - Five podcast episodes created for the initial show of the podcast network.
 - ReachableCEO is streaming and creating lots of content for turning into free / paid tiers for The ReachableCEO show.
-
-#### ThePeerNet.com Level of (custom) development effort
 
 Very low.
 
@@ -26,7 +24,7 @@ Very low.
 - Castopod handles the podcast creation.
 - KNEL hosts the downloads and ancillary services (open streaming platform, craig , ad server etc).
 
-#### ThePeerNet.com Distributions
+#### ThePeerNet.com Initially Proposed Distributions
 
 | Contract Party | Distribution Percentage |
 |----------------|-------------------------|

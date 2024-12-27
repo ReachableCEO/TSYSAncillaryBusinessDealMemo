@@ -9,9 +9,8 @@
 
   - Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/TeamRental.net/teamrental.net-bizopprodplan)
 
-## TeamRental.net Current status of the business
+## TeamRental.net Business, Operations, Product Plan
 
-## TeamRental.net Level of development effort
 
 - Business description/idea/model: A SAAS play. An implementation of the overall TSYS backend stack as turn key server / software stack:
   - VPS (netcup)
@@ -28,7 +27,7 @@ The stack is pretty well developed/deployed/tested. Product/market fit has been 
 
 Should be very straightforward to build out using the KNEL micro services.
 
-## TeamRental.net Distributions
+## TeamRental.net Initially Proposed Distributions
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |

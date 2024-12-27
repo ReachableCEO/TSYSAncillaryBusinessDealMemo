@@ -7,15 +7,11 @@
 
   - sol-calc.com (solar calculator I’ve been building as I am doing a custom design / ground mount of 5kw of panels. Very early microservice development underway.
 
-## Sol-Calc.com Details
+## Sol-Calc.com Business, Operations, Product Plan
 
   Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/sol-calc.com/sol-calc.com-bizopprodplan)
 
-## Sol-Calc.com Current status of the business
-
-## Sol-Calc.com Projected Level of (custom) development effort (non legally binding)
-
-## Sol-Calc.com Distributions
+## Sol-Calc.com Initially Proposed Distributions
 
 | Contract Party | Distribution Percentage |
 |----------------|-------------------------|
