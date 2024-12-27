@@ -1,35 +1,16 @@
-- [Introduction](./Introduction.md)
-
-# Context
-
-[Party1 Contributions](Party1-Contributions.md)
-[Party2 Contributions](Party2-Contributions.md)
-
-# Documents incorporated into this contract by reference 
-
-[TSYS Group Component Charters]
-[TSYS Group Handbook]
-[Starting Line Productions Shop Guide]
-
-# Non Profit
-
-[Americans For A Better Network / Side Door (Solutions) Group](AFABNAndSDSG.md)
-
-# For Profit
-
-# Capital Management And Investment
-
-# Rental of people/compute hours 
-
-[MerchantsOfHope](MerchantsOfHope.org)
-[TeamRental](TeamRental.md)
-
-# Rental of equipment hours
-
-[RackRental](RackRental.md)
-[Starting Line Productions](STL.md)
-
-# Free Libre Open Software Projects 
-
-[EzEDA.org](FLO-EzEDA.md)
-[EzPodStack.org](FLO-EzPodStack.md)
+- [Joint Venture Introduction](./Introduction.md)
+- [TSYS Group Components In Scope](./ComponentsInScope.md)
+- [TSYS Group Components Not In Scope](./ComponentsNotInScope.md)
+- [Party1 Contributions](./Party1-Contributions.md)
+- [Party2 Contributions](./Party2-Contributions.md)
+- [Americans For A Better Network / Side Door (Solutions) Group](AFABNAndSDSG.md)
+- [TheCampusTradingCompany](./TheCampusTradingCo.md)
+- [Redwood Springs Capital Partners](./RWSCP.md)
+- [MerchantsOfHope](MerchantsOfHope.md)
+- [TeamRental](TeamRental.md)
+- [RackRental Non TSYS Group HQ Franchises](./RackRental.md)
+- [Starting Line Productions Non TSYS Group HQ Franchises](./STL.md)
+- [EzEDA.org](FLO-EzEDA.md)
+- [EzPodStack.org](FLO-EzPodStack.md)
+- [Redwood Group Family Office](./RWGFO.md)
+- [TSYS Group Component Charters](./ExtRefDoc-TSYSGroupComponentCharters.md)
