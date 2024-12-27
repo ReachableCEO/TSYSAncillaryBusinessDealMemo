@@ -1,4 +1,4 @@
-# StartingLineProductions.com
+# StartingLineProductions.com (non HQ franchies)
 
 ## StartingLineProductions.com Executive Summary
 
