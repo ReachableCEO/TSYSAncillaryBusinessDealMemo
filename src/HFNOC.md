@@ -1,14 +1,10 @@
 # High Flight Networks Operating Company
 
-## High Flight Network Operating Company Executive Summary
-
-## High Flight Network Operating Company Details
-
-- Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/HFNOC/HFNOC-bizopprodplan)
+- Please see the : [HFNOC Plan](https://plan.hfnoc.net)
 
 ## High Flight Network Operating Company Initially Proposed Distributions
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| {{PARTY1}}     |                     |
-| {{PARTY2}}     |                         |
+| {{PARTY1}}     | 10%                     |
+| {{PARTY2}}     | 90%                     |

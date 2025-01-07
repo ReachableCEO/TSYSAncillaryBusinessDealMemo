@@ -1,14 +1,10 @@
-# High Flight Networks Finance Company
+# High Flight Networks Finance Company (HFNFC)
 
-## High Flight Network Finance Company Executive Summary
-
-## High Flight Network Finance Company Details
-
-- Please see the : [WIP Biz/Ops/Product plan](https://git.knownelement.com/HFNFC/HFNFC-bizopprodplan)
+- Please see the : [HFNFC Plan](https://plan.hfnfc.net)
 
 ## High Flight Network Finance Company Initially Proposed Distributions
 
 | Contract Party | Distribution Percentage |
 | -------------- | ----------------------- |
-| {{PARTY1}}     |                     |
-| {{PARTY2}}     |                         |
+| {{PARTY1}}     | 10%                     |
+| {{PARTY2}}     | 90%                     |

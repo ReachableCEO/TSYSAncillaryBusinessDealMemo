@@ -1,6 +1,6 @@
-# Suborbital Systems
+# MeetMorse
 
-- Please see the : [Suborbital Systems Plan](https://plan.suborbital-systems.com)
+- Please see the : [MeetMorse Plan](https://plan.meetmorse.com)
 
 ## Suborbital-Systems.net Initially Proposed Distributions
 

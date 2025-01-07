@@ -1,1 +1,0 @@
-# TSYS Group Component Charters
