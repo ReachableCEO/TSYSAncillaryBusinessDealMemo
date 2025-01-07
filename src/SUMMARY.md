@@ -10,6 +10,10 @@
 - [Party1](./Party1-Details.md)
 - [Party2](./Party2-Details.md)
 
+# Management Company
+
+- [Known Element Enterprises](./KNEL.md)
+
 # Non Profit (501c3/c4/(super)PAC) (as a service?)
 
 - [Americans For A Better Network / Side Door (Solutions) Group](AFABNAndSDSG.md)
