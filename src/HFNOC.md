@@ -4,7 +4,7 @@
 
 ## High Flight Network Operating Company Initially Proposed Distributions
 
-| Contract Party | Distribution Percentage |
-| -------------- | ----------------------- |
-| {{PARTY1}}     | 10%                     |
-| {{PARTY2}}     | 90%                     |
+| Contract Party                             | Distribution Percentage |
+| ------------------------------------------ | ----------------------- |
+| Suborbital Systems Development Company LLC | 10%                     |
+| {{PARTY2}}                                 | 90%                     |
